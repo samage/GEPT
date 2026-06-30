@@ -65,12 +65,14 @@ export type SentenceEntry = z.infer<typeof SentenceEntrySchema>;
 export const WordEntrySchema = z.object({
   text: z.string().min(1),
   ipa: z.string().optional(),
-  category: z.string().min(1), // PhonicsCategory.name
+  category: z.string().min(1), // PhonicsCategory.name（自然發音分類或主題分類）
   phonemeMapping: z.array(PhonemeBlockSchema).min(1),
   sentences: z.array(SentenceEntrySchema).optional(),
   imageUrl: z.string().optional(),
   audioUrl: z.string().optional(),
   weekNo: z.number().int().min(1).max(20).optional(),
+  chinese: z.string().optional(), // 中文釋義（官方字表匯入）
+  pos: z.string().optional(), // 詞性（官方字表匯入）
 });
 export type WordEntry = z.infer<typeof WordEntrySchema>;
 

@@ -30,6 +30,8 @@ model Word {
   imageUrl       String?
   audioUrl       String?
   weekNo         Int? // 隸屬的課程週次 (1-20)
+  chinese        String? // 中文釋義 (官方字表匯入)
+  pos            String? // 詞性 (官方字表匯入)
   category       PhonicsCategory @relation(fields: [categoryId], references: [id])
   categoryId     String
   createdAt      DateTime        @default(now())

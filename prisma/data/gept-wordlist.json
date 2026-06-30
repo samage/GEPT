@@ -1,0 +1,5927 @@
+[
+  {
+    "voc": "a",
+    "chinese": "一個",
+    "pos": "冠詞",
+    "categoryE": "Articles & determiners",
+    "categoryC": "冠詞/限定詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/a.mp3"
+  },
+  {
+    "voc": "about",
+    "chinese": "1. 大約；2. 關於...",
+    "pos": "介系詞",
+    "categoryE": "Prepositions",
+    "categoryC": "介系詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/about.mp3"
+  },
+  {
+    "voc": "actor",
+    "chinese": "男演員",
+    "pos": "名詞",
+    "categoryE": "Occupations",
+    "categoryC": "工作",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/actor.mp3"
+  },
+  {
+    "voc": "actress",
+    "chinese": "女演員",
+    "pos": "名詞",
+    "categoryE": "Occupations",
+    "categoryC": "工作",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/actress.mp3"
+  },
+  {
+    "voc": "after",
+    "chinese": "在...之後",
+    "pos": "介系詞",
+    "categoryE": "Prepositions",
+    "categoryC": "介系詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/after.mp3"
+  },
+  {
+    "voc": "afternoon",
+    "chinese": "下午",
+    "pos": "名詞",
+    "categoryE": "Time",
+    "categoryC": "時間",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/afternoon.mp3"
+  },
+  {
+    "voc": "again",
+    "chinese": "再一次、又一次",
+    "pos": "副詞",
+    "categoryE": "Other adverbs",
+    "categoryC": "其他副詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/again.mp3"
+  },
+  {
+    "voc": "airplane",
+    "chinese": "飛機 (= plane)",
+    "pos": "名詞",
+    "categoryE": "Transportation",
+    "categoryC": "運輸",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/airplane.mp3"
+  },
+  {
+    "voc": "airport",
+    "chinese": "機場",
+    "pos": "名詞",
+    "categoryE": "Transportation",
+    "categoryC": "運輸",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/airport.mp3"
+  },
+  {
+    "voc": "all",
+    "chinese": "全部的",
+    "pos": "限定詞",
+    "categoryE": "Numbers",
+    "categoryC": "數字",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/all.mp3"
+  },
+  {
+    "voc": "always",
+    "chinese": "總是、永遠",
+    "pos": "副詞",
+    "categoryE": "Other adverbs",
+    "categoryC": "其他副詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/always.mp3"
+  },
+  {
+    "voc": "an",
+    "chinese": "一個",
+    "pos": "冠詞",
+    "categoryE": "Articles & determiners",
+    "categoryC": "冠詞/限定詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/an.mp3"
+  },
+  {
+    "voc": "and",
+    "chinese": "和",
+    "pos": "連接詞",
+    "categoryE": "Conjunctions",
+    "categoryC": "連接詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/and.mp3"
+  },
+  {
+    "voc": "angry",
+    "chinese": "生氣的",
+    "pos": "形容詞",
+    "categoryE": "Personal characteristics",
+    "categoryC": "個性/特點",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/angry.mp3"
+  },
+  {
+    "voc": "animal",
+    "chinese": "動物",
+    "pos": "名詞",
+    "categoryE": "Animals & insects",
+    "categoryC": "動物/昆蟲",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/animal.mp3"
+  },
+  {
+    "voc": "answer",
+    "chinese": "回答",
+    "pos": "動詞",
+    "categoryE": "School",
+    "categoryC": "學校",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/answer.mp3"
+  },
+  {
+    "voc": "apple",
+    "chinese": "蘋果",
+    "pos": "名詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/apple.mp3"
+  },
+  {
+    "voc": "April",
+    "chinese": "四月",
+    "pos": "名詞",
+    "categoryE": "Time",
+    "categoryC": "時間",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/april.mp3"
+  },
+  {
+    "voc": "arm",
+    "chinese": "手臂",
+    "pos": "名詞",
+    "categoryE": "Parts of body",
+    "categoryC": "身體部位",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/arm.mp3"
+  },
+  {
+    "voc": "art",
+    "chinese": "美術、藝術",
+    "pos": "名詞",
+    "categoryE": "School",
+    "categoryC": "學校",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/art.mp3"
+  },
+  {
+    "voc": "ask",
+    "chinese": "問",
+    "pos": "動詞",
+    "categoryE": "School",
+    "categoryC": "學校",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/ask.mp3"
+  },
+  {
+    "voc": "at",
+    "chinese": "在(某處)、在(時刻)",
+    "pos": "介系詞",
+    "categoryE": "Prepositions",
+    "categoryC": "介系詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/at.mp3"
+  },
+  {
+    "voc": "August",
+    "chinese": "八月",
+    "pos": "名詞",
+    "categoryE": "Time",
+    "categoryC": "時間",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/august.mp3"
+  },
+  {
+    "voc": "aunt",
+    "chinese": "阿姨、姑姑、伯母、舅媽",
+    "pos": "名詞",
+    "categoryE": "Family",
+    "categoryC": "家庭",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/aunt.mp3"
+  },
+  {
+    "voc": "away",
+    "chinese": "離開",
+    "pos": "副詞",
+    "categoryE": "Other adverbs",
+    "categoryC": "其他副詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/away.mp3"
+  },
+  {
+    "voc": "baby",
+    "chinese": "嬰兒",
+    "pos": "名詞",
+    "categoryE": "People",
+    "categoryC": "人",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/baby.mp3"
+  },
+  {
+    "voc": "back",
+    "chinese": "背",
+    "pos": "名詞",
+    "categoryE": "Parts of body",
+    "categoryC": "身體部位",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/back.mp3"
+  },
+  {
+    "voc": "bad",
+    "chinese": "不好的、壞的",
+    "pos": "形容詞",
+    "categoryE": "Personal characteristics",
+    "categoryC": "個性/特點",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/bad.mp3"
+  },
+  {
+    "voc": "bag",
+    "chinese": "袋子",
+    "pos": "名詞",
+    "categoryE": "Clothing & accessories",
+    "categoryC": "衣服/配件",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/bag.mp3"
+  },
+  {
+    "voc": "ball",
+    "chinese": "球",
+    "pos": "名詞",
+    "categoryE": "Sports, interests & hobbies",
+    "categoryC": "運動/興趣/嗜好",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/ball.mp3"
+  },
+  {
+    "voc": "banana",
+    "chinese": "香蕉",
+    "pos": "名詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/banana.mp3"
+  },
+  {
+    "voc": "bank",
+    "chinese": "銀行",
+    "pos": "名詞",
+    "categoryE": "Places & directions",
+    "categoryC": "地點/方位",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/bank.mp3"
+  },
+  {
+    "voc": "baseball",
+    "chinese": "棒球",
+    "pos": "名詞",
+    "categoryE": "Sports, interests & hobbies",
+    "categoryC": "運動/興趣/嗜好",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/baseball.mp3"
+  },
+  {
+    "voc": "basketball",
+    "chinese": "籃球",
+    "pos": "名詞",
+    "categoryE": "Sports, interests & hobbies",
+    "categoryC": "運動/興趣/嗜好",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/basketball.mp3"
+  },
+  {
+    "voc": "bathroom",
+    "chinese": "浴室",
+    "pos": "名詞",
+    "categoryE": "Houses & apartments",
+    "categoryC": "房子/公寓",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/bathroom.mp3"
+  },
+  {
+    "voc": "be",
+    "chinese": "是 (is, am, are)",
+    "pos": "助動詞",
+    "categoryE": "Be & auxiliaries",
+    "categoryC": "be動詞/助動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/be.mp3"
+  },
+  {
+    "voc": "beach",
+    "chinese": "海灘",
+    "pos": "名詞",
+    "categoryE": "Geographical terms",
+    "categoryC": "地理名詞",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/beach.mp3"
+  },
+  {
+    "voc": "bear",
+    "chinese": "熊",
+    "pos": "名詞",
+    "categoryE": "Animals & insects",
+    "categoryC": "動物/昆蟲",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/bear.mp3"
+  },
+  {
+    "voc": "beautiful",
+    "chinese": "美麗的、漂亮的",
+    "pos": "形容詞",
+    "categoryE": "Personal characteristics",
+    "categoryC": "個性/特點",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/beautiful.mp3"
+  },
+  {
+    "voc": "because",
+    "chinese": "因為",
+    "pos": "連接詞",
+    "categoryE": "Conjunctions",
+    "categoryC": "連接詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/because.mp3"
+  },
+  {
+    "voc": "bed",
+    "chinese": "床",
+    "pos": "名詞",
+    "categoryE": "Houses & apartments",
+    "categoryC": "房子/公寓",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/bed.mp3"
+  },
+  {
+    "voc": "bedroom",
+    "chinese": "臥房",
+    "pos": "名詞",
+    "categoryE": "Houses & apartments",
+    "categoryC": "房子/公寓",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/bedroom.mp3"
+  },
+  {
+    "voc": "bee",
+    "chinese": "蜜蜂",
+    "pos": "名詞",
+    "categoryE": "Animals & insects",
+    "categoryC": "動物/昆蟲",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/bee.mp3"
+  },
+  {
+    "voc": "beef",
+    "chinese": "牛肉",
+    "pos": "名詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/beef.mp3"
+  },
+  {
+    "voc": "before",
+    "chinese": "在...之前",
+    "pos": "介系詞, 連接詞",
+    "categoryE": "Prepositions",
+    "categoryC": "介系詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/before.mp3"
+  },
+  {
+    "voc": "behind",
+    "chinese": "在...後面",
+    "pos": "介系詞",
+    "categoryE": "Prepositions",
+    "categoryC": "介系詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/behind.mp3"
+  },
+  {
+    "voc": "bicycle",
+    "chinese": "腳踏車 (= bike)",
+    "pos": "名詞",
+    "categoryE": "Transportation",
+    "categoryC": "運輸",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/bicycle.mp3"
+  },
+  {
+    "voc": "big",
+    "chinese": "大的",
+    "pos": "形容詞",
+    "categoryE": "Sizes & measurements",
+    "categoryC": "尺寸/計量",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/big.mp3"
+  },
+  {
+    "voc": "bike",
+    "chinese": "腳踏車 (= bicycle)",
+    "pos": "名詞",
+    "categoryE": "Transportation",
+    "categoryC": "運輸",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/bike.mp3"
+  },
+  {
+    "voc": "bird",
+    "chinese": "鳥",
+    "pos": "名詞",
+    "categoryE": "Animals & insects",
+    "categoryC": "動物/昆蟲",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/bird.mp3"
+  },
+  {
+    "voc": "birthday",
+    "chinese": "生日",
+    "pos": "名詞",
+    "categoryE": "Other nouns",
+    "categoryC": "其他名詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/birthday.mp3"
+  },
+  {
+    "voc": "bite",
+    "chinese": "咬",
+    "pos": "動詞",
+    "categoryE": "Animals & insects",
+    "categoryC": "動物/昆蟲",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/bite.mp3"
+  },
+  {
+    "voc": "black",
+    "chinese": "黑色的",
+    "pos": "形容詞",
+    "categoryE": "Colors",
+    "categoryC": "顏色",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/black.mp3"
+  },
+  {
+    "voc": "blackboard",
+    "chinese": "黑板",
+    "pos": "名詞",
+    "categoryE": "School",
+    "categoryC": "學校",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/blackboard.mp3"
+  },
+  {
+    "voc": "blue",
+    "chinese": "藍色的",
+    "pos": "形容詞",
+    "categoryE": "Colors",
+    "categoryC": "顏色",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/blue.mp3"
+  },
+  {
+    "voc": "boat",
+    "chinese": "船",
+    "pos": "名詞",
+    "categoryE": "Transportation",
+    "categoryC": "運輸",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/boat.mp3"
+  },
+  {
+    "voc": "book",
+    "chinese": "書、書本",
+    "pos": "名詞",
+    "categoryE": "School",
+    "categoryC": "學校",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/book.mp3"
+  },
+  {
+    "voc": "bookstore",
+    "chinese": "書店",
+    "pos": "名詞",
+    "categoryE": "Places & directions",
+    "categoryC": "地點/方位",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/bookstore.mp3",
+    "remarks": "非GEPT初級"
+  },
+  {
+    "voc": "bored",
+    "chinese": "覺得無聊的",
+    "pos": "形容詞",
+    "categoryE": "Personal characteristics",
+    "categoryC": "個性/特點",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/bored.mp3"
+  },
+  {
+    "voc": "boring",
+    "chinese": "令人無聊的",
+    "pos": "形容詞",
+    "categoryE": "Personal characteristics",
+    "categoryC": "個性/特點",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/boring.mp3"
+  },
+  {
+    "voc": "both",
+    "chinese": "兩個都",
+    "pos": "限定詞",
+    "categoryE": "Numbers",
+    "categoryC": "數字",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/both.mp3"
+  },
+  {
+    "voc": "bottle",
+    "chinese": "瓶子",
+    "pos": "名詞",
+    "categoryE": "Other nouns",
+    "categoryC": "其他名詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/bottle.mp3"
+  },
+  {
+    "voc": "box",
+    "chinese": "箱子",
+    "pos": "名詞",
+    "categoryE": "Other nouns",
+    "categoryC": "其他名詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/box.mp3"
+  },
+  {
+    "voc": "boy",
+    "chinese": "男孩",
+    "pos": "名詞",
+    "categoryE": "People",
+    "categoryC": "人",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/boy.mp3"
+  },
+  {
+    "voc": "bread",
+    "chinese": "麵包",
+    "pos": "名詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/bread.mp3"
+  },
+  {
+    "voc": "breakfast",
+    "chinese": "早餐",
+    "pos": "名詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/breakfast.mp3"
+  },
+  {
+    "voc": "brother",
+    "chinese": "哥哥、弟弟",
+    "pos": "名詞",
+    "categoryE": "Family",
+    "categoryC": "家庭",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/brother.mp3"
+  },
+  {
+    "voc": "brown",
+    "chinese": "咖啡色的",
+    "pos": "形容詞",
+    "categoryE": "Colors",
+    "categoryC": "顏色",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/brown.mp3"
+  },
+  {
+    "voc": "brush",
+    "chinese": "用刷子刷",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/brush.mp3"
+  },
+  {
+    "voc": "bus",
+    "chinese": "公車",
+    "pos": "名詞",
+    "categoryE": "Transportation",
+    "categoryC": "運輸",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/bus.mp3"
+  },
+  {
+    "voc": "bus stop",
+    "chinese": "公車站",
+    "pos": "名詞",
+    "categoryE": "Transportation",
+    "categoryC": "運輸",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/bus_stop.mp3"
+  },
+  {
+    "voc": "busy",
+    "chinese": "忙碌的",
+    "pos": "形容詞",
+    "categoryE": "Personal characteristics",
+    "categoryC": "個性/特點",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/busy.mp3"
+  },
+  {
+    "voc": "but",
+    "chinese": "但是",
+    "pos": "連接詞",
+    "categoryE": "Conjunctions",
+    "categoryC": "連接詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/but.mp3"
+  },
+  {
+    "voc": "butterfly",
+    "chinese": "蝴蝶",
+    "pos": "名詞",
+    "categoryE": "Animals & insects",
+    "categoryC": "動物/昆蟲",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/butterfly.mp3"
+  },
+  {
+    "voc": "buy",
+    "chinese": "買",
+    "pos": "動詞",
+    "categoryE": "Money",
+    "categoryC": "金錢",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/buy.mp3"
+  },
+  {
+    "voc": "by",
+    "chinese": "在...旁邊",
+    "pos": "介系詞",
+    "categoryE": "Prepositions",
+    "categoryC": "介系詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/by.mp3"
+  },
+  {
+    "voc": "bye",
+    "chinese": "再見 (= goodbye)",
+    "pos": "感嘆詞",
+    "categoryE": "Interjections",
+    "categoryC": "感嘆詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/bye.mp3"
+  },
+  {
+    "voc": "cake",
+    "chinese": "蛋糕",
+    "pos": "名詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/cake.mp3"
+  },
+  {
+    "voc": "call",
+    "chinese": "打電話給...",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/call.mp3"
+  },
+  {
+    "voc": "can",
+    "chinese": "可以",
+    "pos": "助動詞",
+    "categoryE": "Be & auxiliaries",
+    "categoryC": "be動詞/助動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/can.mp3"
+  },
+  {
+    "voc": "candy",
+    "chinese": "糖果",
+    "pos": "名詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/candy.mp3"
+  },
+  {
+    "voc": "cap",
+    "chinese": "棒球帽",
+    "pos": "名詞",
+    "categoryE": "Clothing & accessories",
+    "categoryC": "衣服/配件",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/cap.mp3"
+  },
+  {
+    "voc": "car",
+    "chinese": "車子",
+    "pos": "名詞",
+    "categoryE": "Transportation",
+    "categoryC": "運輸",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/car.mp3"
+  },
+  {
+    "voc": "card",
+    "chinese": "卡片",
+    "pos": "名詞",
+    "categoryE": "Sports, interests & hobbies",
+    "categoryC": "運動/興趣/嗜好",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/card.mp3"
+  },
+  {
+    "voc": "cat",
+    "chinese": "貓",
+    "pos": "名詞",
+    "categoryE": "Animals & insects",
+    "categoryC": "動物/昆蟲",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/cat.mp3"
+  },
+  {
+    "voc": "cellphone",
+    "chinese": "手機",
+    "pos": "名詞",
+    "categoryE": "Other nouns",
+    "categoryC": "其他名詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/cellphone.mp3",
+    "remarks": "非GEPT初級"
+  },
+  {
+    "voc": "chair",
+    "chinese": "椅子",
+    "pos": "名詞",
+    "categoryE": "Houses & apartments",
+    "categoryC": "房子/公寓",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/chair.mp3"
+  },
+  {
+    "voc": "chicken",
+    "chinese": "雞",
+    "pos": "名詞",
+    "categoryE": "Animals & insects",
+    "categoryC": "動物/昆蟲",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/chicken.mp3"
+  },
+  {
+    "voc": "Chinese",
+    "chinese": "中文",
+    "pos": "名詞",
+    "categoryE": "School",
+    "categoryC": "學校",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/Chinese.mp3"
+  },
+  {
+    "voc": "chocolate",
+    "chinese": "巧克力",
+    "pos": "名詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/chocolate.mp3"
+  },
+  {
+    "voc": "chopsticks",
+    "chinese": "筷子",
+    "pos": "名詞",
+    "categoryE": "Tableware",
+    "categoryC": "餐具",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/chopsticks.mp3"
+  },
+  {
+    "voc": "Christmas",
+    "chinese": "聖誕節",
+    "pos": "名詞",
+    "categoryE": "Festival",
+    "categoryC": "節日/節慶",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/Christmas.mp3"
+  },
+  {
+    "voc": "class",
+    "chinese": "課；班級",
+    "pos": "名詞",
+    "categoryE": "School",
+    "categoryC": "學校",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/class.mp3"
+  },
+  {
+    "voc": "classroom",
+    "chinese": "教室",
+    "pos": "名詞",
+    "categoryE": "School",
+    "categoryC": "學校",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/classroom.mp3",
+    "remarks": "非GEPT初級"
+  },
+  {
+    "voc": "clean",
+    "chinese": "乾淨的",
+    "pos": "形容詞",
+    "categoryE": "Houses & apartments",
+    "categoryC": "房子/公寓",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/clean.mp3"
+  },
+  {
+    "voc": "climb",
+    "chinese": "爬、攀爬",
+    "pos": "動詞",
+    "categoryE": "Sports, interests & hobbies",
+    "categoryC": "運動/興趣/嗜好",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/climb.mp3"
+  },
+  {
+    "voc": "clock",
+    "chinese": "時鐘",
+    "pos": "名詞",
+    "categoryE": "Time",
+    "categoryC": "時間",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/clock.mp3"
+  },
+  {
+    "voc": "close",
+    "chinese": "關",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/close.mp3"
+  },
+  {
+    "voc": "clothes",
+    "chinese": "衣服",
+    "pos": "名詞",
+    "categoryE": "Clothing & accessories",
+    "categoryC": "衣服/配件",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/clothes.mp3"
+  },
+  {
+    "voc": "cloudy",
+    "chinese": "多雲的",
+    "pos": "形容詞",
+    "categoryE": "Weather & nature",
+    "categoryC": "天氣/自然",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/cloudy.mp3"
+  },
+  {
+    "voc": "coat",
+    "chinese": "外套",
+    "pos": "名詞",
+    "categoryE": "Clothing & accessories",
+    "categoryC": "衣服/配件",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/coat.mp3"
+  },
+  {
+    "voc": "coffee",
+    "chinese": "咖啡",
+    "pos": "名詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/coffee.mp3"
+  },
+  {
+    "voc": "coke",
+    "chinese": "可樂",
+    "pos": "名詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/coke.mp3",
+    "remarks": "非1200字表"
+  },
+  {
+    "voc": "cold",
+    "chinese": "寒冷的",
+    "pos": "形容詞",
+    "categoryE": "Weather & nature",
+    "categoryC": "天氣/自然",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/cold.mp3"
+  },
+  {
+    "voc": "color",
+    "chinese": "顏色",
+    "pos": "名詞",
+    "categoryE": "Colors",
+    "categoryC": "顏色",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/color.mp3"
+  },
+  {
+    "voc": "come",
+    "chinese": "來",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/come.mp3"
+  },
+  {
+    "voc": "computer",
+    "chinese": "電腦",
+    "pos": "名詞",
+    "categoryE": "Houses & apartments",
+    "categoryC": "房子/公寓",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/computer.mp3"
+  },
+  {
+    "voc": "cook",
+    "chinese": "廚師",
+    "pos": "名詞",
+    "categoryE": "Occupations",
+    "categoryC": "工作",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/cook.mp3"
+  },
+  {
+    "voc": "cookies",
+    "chinese": "餅乾",
+    "pos": "名詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/cookies.mp3"
+  },
+  {
+    "voc": "cool",
+    "chinese": "涼爽的",
+    "pos": "形容詞",
+    "categoryE": "Weather & nature",
+    "categoryC": "天氣/自然",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/cool.mp3"
+  },
+  {
+    "voc": "cousin",
+    "chinese": "堂兄（弟、姊、妹）",
+    "pos": "名詞",
+    "categoryE": "Family",
+    "categoryC": "家庭",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/cousin.mp3"
+  },
+  {
+    "voc": "cow",
+    "chinese": "乳牛",
+    "pos": "名詞",
+    "categoryE": "Animals & insects",
+    "categoryC": "動物/昆蟲",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/cow.mp3"
+  },
+  {
+    "voc": "cry",
+    "chinese": "哭、哭泣",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/cry.mp3"
+  },
+  {
+    "voc": "cup",
+    "chinese": "杯子",
+    "pos": "名詞",
+    "categoryE": "Tableware",
+    "categoryC": "餐具",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/cup.mp3"
+  },
+  {
+    "voc": "cute",
+    "chinese": "可愛的",
+    "pos": "形容詞",
+    "categoryE": "Personal characteristics",
+    "categoryC": "個性/特點",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/cute.mp3"
+  },
+  {
+    "voc": "dad",
+    "chinese": "爸爸 (= father; daddy)",
+    "pos": "名詞",
+    "categoryE": "Family",
+    "categoryC": "家庭",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/dad.mp3"
+  },
+  {
+    "voc": "daddy",
+    "chinese": "爸爸 (= father; dad)",
+    "pos": "名詞",
+    "categoryE": "Family",
+    "categoryC": "家庭",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/daddy.mp3"
+  },
+  {
+    "voc": "dance",
+    "chinese": "跳舞",
+    "pos": "動詞",
+    "categoryE": "Sports, interests & hobbies",
+    "categoryC": "運動/興趣/嗜好",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/dance.mp3"
+  },
+  {
+    "voc": "daughter",
+    "chinese": "女兒",
+    "pos": "名詞",
+    "categoryE": "Family",
+    "categoryC": "家庭",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/daughter.mp3"
+  },
+  {
+    "voc": "day",
+    "chinese": "天",
+    "pos": "名詞",
+    "categoryE": "Time",
+    "categoryC": "時間",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/day.mp3"
+  },
+  {
+    "voc": "December",
+    "chinese": "十二月",
+    "pos": "名詞",
+    "categoryE": "Time",
+    "categoryC": "時間",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/december.mp3"
+  },
+  {
+    "voc": "department store",
+    "chinese": "百貨公司",
+    "pos": "名詞",
+    "categoryE": "Places & directions",
+    "categoryC": "地點/方位",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/department_store.mp3"
+  },
+  {
+    "voc": "desk",
+    "chinese": "桌子",
+    "pos": "名詞",
+    "categoryE": "Houses & apartments",
+    "categoryC": "房子/公寓",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/desk.mp3"
+  },
+  {
+    "voc": "different",
+    "chinese": "不一樣的",
+    "pos": "形容詞",
+    "categoryE": "Other adjectives",
+    "categoryC": "其他形容詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/different.mp3"
+  },
+  {
+    "voc": "dining room",
+    "chinese": "(家裡的)餐廳",
+    "pos": "名詞",
+    "categoryE": "Houses & apartments",
+    "categoryC": "房子/公寓",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/dining_room.mp3",
+    "remarks": "非GEPT初級"
+  },
+  {
+    "voc": "dinner",
+    "chinese": "晚餐",
+    "pos": "名詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/dinner.mp3"
+  },
+  {
+    "voc": "dirty",
+    "chinese": "髒的",
+    "pos": "形容詞",
+    "categoryE": "Other adjectives",
+    "categoryC": "其他形容詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/dirty.mp3"
+  },
+  {
+    "voc": "dish",
+    "chinese": "碟子、盤子",
+    "pos": "名詞",
+    "categoryE": "Tableware",
+    "categoryC": "餐具",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/dish.mp3"
+  },
+  {
+    "voc": "do",
+    "chinese": "助動詞",
+    "pos": "助動詞",
+    "categoryE": "Be & auxiliaries",
+    "categoryC": "be動詞/助動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/do.mp3"
+  },
+  {
+    "voc": "doctor",
+    "chinese": "醫生",
+    "pos": "名詞",
+    "categoryE": "Occupations",
+    "categoryC": "工作",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/doctor.mp3"
+  },
+  {
+    "voc": "dog",
+    "chinese": "狗",
+    "pos": "名詞",
+    "categoryE": "Animals & insects",
+    "categoryC": "動物/昆蟲",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/dog.mp3"
+  },
+  {
+    "voc": "doll",
+    "chinese": "玩偶",
+    "pos": "名詞",
+    "categoryE": "Sports, interests & hobbies",
+    "categoryC": "運動/興趣/嗜好",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/doll.mp3"
+  },
+  {
+    "voc": "dollar",
+    "chinese": "元",
+    "pos": "名詞",
+    "categoryE": "Money",
+    "categoryC": "金錢",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/dollar.mp3"
+  },
+  {
+    "voc": "door",
+    "chinese": "門",
+    "pos": "名詞",
+    "categoryE": "Houses & apartments",
+    "categoryC": "房子/公寓",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/door.mp3"
+  },
+  {
+    "voc": "Dragon Boat Festival",
+    "chinese": "端午節",
+    "pos": "名詞",
+    "categoryE": "Festival",
+    "categoryC": "節日/節慶",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/Dragon_Boat_Festival.mp3"
+  },
+  {
+    "voc": "draw",
+    "chinese": "畫、描畫",
+    "pos": "動詞",
+    "categoryE": "School",
+    "categoryC": "學校",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/draw.mp3"
+  },
+  {
+    "voc": "dream",
+    "chinese": "夢",
+    "pos": "名詞",
+    "categoryE": "Other nouns",
+    "categoryC": "其他名詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/dream.mp3"
+  },
+  {
+    "voc": "dress",
+    "chinese": "洋裝",
+    "pos": "名詞",
+    "categoryE": "Clothing & accessories",
+    "categoryC": "衣服/配件",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/dress.mp3"
+  },
+  {
+    "voc": "drink",
+    "chinese": "喝",
+    "pos": "動詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/drink.mp3"
+  },
+  {
+    "voc": "drive",
+    "chinese": "開車",
+    "pos": "動詞",
+    "categoryE": "Transportation",
+    "categoryC": "運輸",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/drive.mp3"
+  },
+  {
+    "voc": "driver",
+    "chinese": "司機、駕駛員",
+    "pos": "名詞",
+    "categoryE": "Occupations",
+    "categoryC": "工作",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/driver.mp3"
+  },
+  {
+    "voc": "drum",
+    "chinese": "鼓",
+    "pos": "名詞",
+    "categoryE": "Sports, interests & hobbies",
+    "categoryC": "運動/興趣/嗜好",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/drum.mp3"
+  },
+  {
+    "voc": "duck",
+    "chinese": "鴨肉",
+    "pos": "名詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/duck.mp3"
+  },
+  {
+    "voc": "dumpling",
+    "chinese": "水餃",
+    "pos": "名詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/dumpling.mp3"
+  },
+  {
+    "voc": "ear",
+    "chinese": "耳朵",
+    "pos": "名詞",
+    "categoryE": "Parts of body",
+    "categoryC": "身體部位",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/ear.mp3"
+  },
+  {
+    "voc": "early",
+    "chinese": "早到（的）",
+    "pos": "形容詞, 副詞",
+    "categoryE": "Time",
+    "categoryC": "時間",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/early.mp3"
+  },
+  {
+    "voc": "Easter",
+    "chinese": "復活節",
+    "pos": "名詞",
+    "categoryE": "Festival",
+    "categoryC": "節日/節慶",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/Easter.mp3"
+  },
+  {
+    "voc": "easy",
+    "chinese": "簡單的",
+    "pos": "形容詞",
+    "categoryE": "Other adjectives",
+    "categoryC": "其他形容詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/easy.mp3"
+  },
+  {
+    "voc": "eat",
+    "chinese": "吃",
+    "pos": "動詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/eat.mp3"
+  },
+  {
+    "voc": "egg",
+    "chinese": "蛋",
+    "pos": "名詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/egg.mp3"
+  },
+  {
+    "voc": "eight",
+    "chinese": "八",
+    "pos": "數字",
+    "categoryE": "Numbers",
+    "categoryC": "數字",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/eight.mp3"
+  },
+  {
+    "voc": "eighteen",
+    "chinese": "十八",
+    "pos": "數字",
+    "categoryE": "Numbers",
+    "categoryC": "數字",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/eighteen.mp3"
+  },
+  {
+    "voc": "eighty",
+    "chinese": "八十",
+    "pos": "數字",
+    "categoryE": "Numbers",
+    "categoryC": "數字",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/eighty.mp3"
+  },
+  {
+    "voc": "elephant",
+    "chinese": "大象",
+    "pos": "名詞",
+    "categoryE": "Animals & insects",
+    "categoryC": "動物/昆蟲",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/elephant.mp3"
+  },
+  {
+    "voc": "eleven",
+    "chinese": "十一",
+    "pos": "數字",
+    "categoryE": "Numbers",
+    "categoryC": "數字",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/eleven.mp3"
+  },
+  {
+    "voc": "email",
+    "chinese": "電子郵件",
+    "pos": "名詞",
+    "categoryE": "Other nouns",
+    "categoryC": "其他名詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/email.mp3"
+  },
+  {
+    "voc": "English",
+    "chinese": "英文",
+    "pos": "名詞",
+    "categoryE": "School",
+    "categoryC": "學校",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/English.mp3"
+  },
+  {
+    "voc": "enjoy",
+    "chinese": "享受、喜歡",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/enjoy.mp3"
+  },
+  {
+    "voc": "eraser",
+    "chinese": "橡皮擦",
+    "pos": "名詞",
+    "categoryE": "School",
+    "categoryC": "學校",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/eraser.mp3"
+  },
+  {
+    "voc": "evening",
+    "chinese": "傍晚",
+    "pos": "名詞",
+    "categoryE": "Time",
+    "categoryC": "時間",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/evening.mp3"
+  },
+  {
+    "voc": "every",
+    "chinese": "每一個",
+    "pos": "限定詞",
+    "categoryE": "Articles & determiners",
+    "categoryC": "冠詞/限定詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/every.mp3"
+  },
+  {
+    "voc": "excited",
+    "chinese": "覺得興奮的",
+    "pos": "形容詞",
+    "categoryE": "Personal characteristics",
+    "categoryC": "個性/特點",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/excited.mp3"
+  },
+  {
+    "voc": "exciting",
+    "chinese": "令人興奮的",
+    "pos": "形容詞",
+    "categoryE": "Personal characteristics",
+    "categoryC": "個性/特點",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/exciting.mp3"
+  },
+  {
+    "voc": "excuse me",
+    "chinese": "不好意思、對不起",
+    "pos": "感嘆詞",
+    "categoryE": "Interjections",
+    "categoryC": "感嘆詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/excuse_me.mp3"
+  },
+  {
+    "voc": "eye",
+    "chinese": "眼睛",
+    "pos": "名詞",
+    "categoryE": "Parts of body",
+    "categoryC": "身體部位",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/eye.mp3"
+  },
+  {
+    "voc": "face",
+    "chinese": "臉",
+    "pos": "名詞",
+    "categoryE": "Parts of body",
+    "categoryC": "身體部位",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/face.mp3"
+  },
+  {
+    "voc": "fall",
+    "chinese": "秋天",
+    "pos": "名詞",
+    "categoryE": "Time",
+    "categoryC": "時間",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/fall.mp3"
+  },
+  {
+    "voc": "family",
+    "chinese": "家庭、家人",
+    "pos": "名詞",
+    "categoryE": "Family",
+    "categoryC": "家庭",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/family.mp3"
+  },
+  {
+    "voc": "fan",
+    "chinese": "電扇",
+    "pos": "名詞",
+    "categoryE": "Houses & apartments",
+    "categoryC": "房子/公寓",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/fan.mp3"
+  },
+  {
+    "voc": "farmer",
+    "chinese": "農夫",
+    "pos": "名詞",
+    "categoryE": "Occupations",
+    "categoryC": "工作",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/farmer.mp3"
+  },
+  {
+    "voc": "fast",
+    "chinese": "快速的（地）",
+    "pos": "形容詞, 副詞",
+    "categoryE": "Transportation",
+    "categoryC": "運輸",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/fast.mp3"
+  },
+  {
+    "voc": "father",
+    "chinese": "爸爸 (= dad; daddy)",
+    "pos": "名詞",
+    "categoryE": "Family",
+    "categoryC": "家庭",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/father.mp3"
+  },
+  {
+    "voc": "favorite",
+    "chinese": "最喜歡的",
+    "pos": "形容詞",
+    "categoryE": "Other adjectives",
+    "categoryC": "其他形容詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/favorite.mp3"
+  },
+  {
+    "voc": "February",
+    "chinese": "二月",
+    "pos": "名詞",
+    "categoryE": "Time",
+    "categoryC": "時間",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/february.mp3"
+  },
+  {
+    "voc": "feel",
+    "chinese": "感受、感覺",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/feel.mp3"
+  },
+  {
+    "voc": "feet",
+    "chinese": "腳 (複數)",
+    "pos": "名詞",
+    "categoryE": "Parts of body",
+    "categoryC": "身體部位",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/feet.mp3"
+  },
+  {
+    "voc": "fifteen",
+    "chinese": "十五",
+    "pos": "數字",
+    "categoryE": "Numbers",
+    "categoryC": "數字",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/fifteen.mp3"
+  },
+  {
+    "voc": "fifty",
+    "chinese": "五十",
+    "pos": "數字",
+    "categoryE": "Numbers",
+    "categoryC": "數字",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/fifty.mp3"
+  },
+  {
+    "voc": "find",
+    "chinese": "找",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/find.mp3"
+  },
+  {
+    "voc": "fine",
+    "chinese": "很好的、很不錯的",
+    "pos": "形容詞",
+    "categoryE": "Other adjectives",
+    "categoryC": "其他形容詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/fine.mp3"
+  },
+  {
+    "voc": "fire station",
+    "chinese": "消防站",
+    "pos": "名詞",
+    "categoryE": "Places & directions",
+    "categoryC": "地點/方位",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/fire_station.mp3"
+  },
+  {
+    "voc": "first",
+    "chinese": "第一",
+    "pos": "數字",
+    "categoryE": "Numbers",
+    "categoryC": "數字",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/first.mp3"
+  },
+  {
+    "voc": "fish",
+    "chinese": "魚",
+    "pos": "名詞",
+    "categoryE": "Animals & insects",
+    "categoryC": "動物/昆蟲",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/fish.mp3"
+  },
+  {
+    "voc": "five",
+    "chinese": "五",
+    "pos": "數字",
+    "categoryE": "Numbers",
+    "categoryC": "數字",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/five.mp3"
+  },
+  {
+    "voc": "floor",
+    "chinese": "地板",
+    "pos": "名詞",
+    "categoryE": "Houses & apartments",
+    "categoryC": "房子/公寓",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/floor.mp3"
+  },
+  {
+    "voc": "flower",
+    "chinese": "花",
+    "pos": "名詞",
+    "categoryE": "Other nouns",
+    "categoryC": "其他名詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/flower.mp3"
+  },
+  {
+    "voc": "fly",
+    "chinese": "飛、飛行",
+    "pos": "動詞",
+    "categoryE": "Transportation",
+    "categoryC": "運輸",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/fly.mp3"
+  },
+  {
+    "voc": "food",
+    "chinese": "食物",
+    "pos": "名詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/food.mp3"
+  },
+  {
+    "voc": "foot",
+    "chinese": "腳",
+    "pos": "名詞",
+    "categoryE": "Parts of body",
+    "categoryC": "身體部位",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/foot.mp3"
+  },
+  {
+    "voc": "football",
+    "chinese": "足球 (UK; 英式英語)",
+    "pos": "名詞",
+    "categoryE": "\"Sports, interests & hobbies\"",
+    "categoryC": "運動/興趣/嗜好",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/football.mp3"
+  },
+  {
+    "voc": "for",
+    "chinese": "給、為了(某人、物)",
+    "pos": "介系詞",
+    "categoryE": "Prepositions",
+    "categoryC": "介系詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/for.mp3"
+  },
+  {
+    "voc": "fork",
+    "chinese": "叉子",
+    "pos": "名詞",
+    "categoryE": "Tableware",
+    "categoryC": "餐具",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/fork.mp3"
+  },
+  {
+    "voc": "forty",
+    "chinese": "四十",
+    "pos": "數字",
+    "categoryE": "Numbers",
+    "categoryC": "數字",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/forty.mp3"
+  },
+  {
+    "voc": "four",
+    "chinese": "四",
+    "pos": "數字",
+    "categoryE": "Numbers",
+    "categoryC": "數字",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/four.mp3"
+  },
+  {
+    "voc": "fourteen",
+    "chinese": "十四",
+    "pos": "數字",
+    "categoryE": "Numbers",
+    "categoryC": "數字",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/fourteen.mp3"
+  },
+  {
+    "voc": "free",
+    "chinese": "免費的",
+    "pos": "形容詞",
+    "categoryE": "Money",
+    "categoryC": "金錢",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/free.mp3"
+  },
+  {
+    "voc": "French fries",
+    "chinese": "薯條",
+    "pos": "名詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/french_fries.mp3"
+  },
+  {
+    "voc": "Friday",
+    "chinese": "星期五",
+    "pos": "名詞",
+    "categoryE": "Time",
+    "categoryC": "時間",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/friday.mp3"
+  },
+  {
+    "voc": "fridge",
+    "chinese": "電冰箱 (= refrigerator)",
+    "pos": "名詞",
+    "categoryE": "Houses & apartments",
+    "categoryC": "房子/公寓",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/frige.mp3",
+    "remarks": "非GEPT初級"
+  },
+  {
+    "voc": "friend",
+    "chinese": "朋友",
+    "pos": "名詞",
+    "categoryE": "School",
+    "categoryC": "學校",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/friend.mp3"
+  },
+  {
+    "voc": "frog",
+    "chinese": "青蛙",
+    "pos": "名詞",
+    "categoryE": "Animals & insects",
+    "categoryC": "動物/昆蟲",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/frog.mp3"
+  },
+  {
+    "voc": "from",
+    "chinese": "從(某處)/(某時刻)/(某人)",
+    "pos": "介系詞",
+    "categoryE": "Prepositions",
+    "categoryC": "介系詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/from.mp3"
+  },
+  {
+    "voc": "fruit",
+    "chinese": "水果",
+    "pos": "名詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/fruit.mp3"
+  },
+  {
+    "voc": "full",
+    "chinese": "飽的",
+    "pos": "形容詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/full.mp3"
+  },
+  {
+    "voc": "fun",
+    "chinese": "有趣的",
+    "pos": "形容詞",
+    "categoryE": "Other adjectives",
+    "categoryC": "其他形容詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/fun.mp3"
+  },
+  {
+    "voc": "game",
+    "chinese": "遊戲、比賽",
+    "pos": "名詞",
+    "categoryE": "Sports, interests & hobbies",
+    "categoryC": "運動/興趣/嗜好",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/game.mp3"
+  },
+  {
+    "voc": "garden",
+    "chinese": "院子、花園",
+    "pos": "名詞",
+    "categoryE": "Houses & apartments",
+    "categoryC": "房子/公寓",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/garden.mp3"
+  },
+  {
+    "voc": "get",
+    "chinese": "得到、收到",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/get.mp3"
+  },
+  {
+    "voc": "gift",
+    "chinese": "禮物",
+    "pos": "名詞",
+    "categoryE": "Other nouns",
+    "categoryC": "其他名詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/gift.mp3"
+  },
+  {
+    "voc": "girl",
+    "chinese": "女孩",
+    "pos": "名詞",
+    "categoryE": "People",
+    "categoryC": "人",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/girl.mp3"
+  },
+  {
+    "voc": "give",
+    "chinese": "給",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/give.mp3"
+  },
+  {
+    "voc": "glass",
+    "chinese": "玻璃杯",
+    "pos": "名詞",
+    "categoryE": "Tableware",
+    "categoryC": "餐具",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/glass.mp3"
+  },
+  {
+    "voc": "glasses",
+    "chinese": "眼鏡",
+    "pos": "名詞",
+    "categoryE": "Clothing & accessories",
+    "categoryC": "衣服/配件",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/glasses.mp3"
+  },
+  {
+    "voc": "glue",
+    "chinese": "膠水",
+    "pos": "名詞",
+    "categoryE": "School",
+    "categoryC": "學校",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/glue.mp3"
+  },
+  {
+    "voc": "go",
+    "chinese": "去、走",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/go.mp3"
+  },
+  {
+    "voc": "good",
+    "chinese": "好的",
+    "pos": "形容詞",
+    "categoryE": "Personal characteristics",
+    "categoryC": "個性/特點",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/good.mp3"
+  },
+  {
+    "voc": "goodbye",
+    "chinese": "再見 (= bye)",
+    "pos": "感嘆詞",
+    "categoryE": "Interjections",
+    "categoryC": "感嘆詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/goodbye.mp3"
+  },
+  {
+    "voc": "grandfather",
+    "chinese": "外公、爺爺 (= grandpa)",
+    "pos": "名詞",
+    "categoryE": "Family",
+    "categoryC": "家庭",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/grandfather.mp3"
+  },
+  {
+    "voc": "grandma",
+    "chinese": "外婆、奶奶 (= grandmother)",
+    "pos": "名詞",
+    "categoryE": "Family",
+    "categoryC": "家庭",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/grandma.mp3"
+  },
+  {
+    "voc": "grandmother",
+    "chinese": "外婆、奶奶 (= grandma)",
+    "pos": "名詞",
+    "categoryE": "Family",
+    "categoryC": "家庭",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/grandmother.mp3"
+  },
+  {
+    "voc": "grandpa",
+    "chinese": "外公、爺爺 (= grandfather)",
+    "pos": "名詞",
+    "categoryE": "Family",
+    "categoryC": "家庭",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/grandpa.mp3"
+  },
+  {
+    "voc": "grape",
+    "chinese": "葡萄",
+    "pos": "名詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/grape.mp3"
+  },
+  {
+    "voc": "gray",
+    "chinese": "灰色的",
+    "pos": "形容詞",
+    "categoryE": "Colors",
+    "categoryC": "顏色",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/gray.mp3"
+  },
+  {
+    "voc": "great",
+    "chinese": "很棒的",
+    "pos": "形容詞",
+    "categoryE": "Other adjectives",
+    "categoryC": "其他形容詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/great.mp3"
+  },
+  {
+    "voc": "green",
+    "chinese": "綠色的",
+    "pos": "形容詞",
+    "categoryE": "Colors",
+    "categoryC": "顏色",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/green.mp3"
+  },
+  {
+    "voc": "grow",
+    "chinese": "成長、長大",
+    "pos": "動詞",
+    "categoryE": "Family",
+    "categoryC": "家庭",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/grow.mp3"
+  },
+  {
+    "voc": "hair",
+    "chinese": "頭髮",
+    "pos": "名詞",
+    "categoryE": "Parts of body",
+    "categoryC": "身體部位",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/hair.mp3"
+  },
+  {
+    "voc": "Halloween",
+    "chinese": "萬聖節",
+    "pos": "名詞",
+    "categoryE": "Festival",
+    "categoryC": "節日/節慶",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/Halloween.mp3"
+  },
+  {
+    "voc": "hamburger",
+    "chinese": "漢堡",
+    "pos": "名詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/hamburger.mp3"
+  },
+  {
+    "voc": "hand",
+    "chinese": "手",
+    "pos": "名詞",
+    "categoryE": "Parts of body",
+    "categoryC": "身體部位",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/hand.mp3"
+  },
+  {
+    "voc": "happy",
+    "chinese": "開心的、高興的",
+    "pos": "形容詞",
+    "categoryE": "Personal characteristics",
+    "categoryC": "個性/特點",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/happy.mp3"
+  },
+  {
+    "voc": "hard",
+    "chinese": "困難的",
+    "pos": "形容詞",
+    "categoryE": "Other adjectives",
+    "categoryC": "其他形容詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/hard.mp3"
+  },
+  {
+    "voc": "hat",
+    "chinese": "帽子",
+    "pos": "名詞",
+    "categoryE": "Clothing & accessories",
+    "categoryC": "衣服/配件",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/hat.mp3"
+  },
+  {
+    "voc": "have",
+    "chinese": "助動詞",
+    "pos": "助動詞",
+    "categoryE": "Be & auxiliaries",
+    "categoryC": "be動詞/助動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/have.mp3"
+  },
+  {
+    "voc": "he",
+    "chinese": "他",
+    "pos": "代名詞",
+    "categoryE": "Pronouns",
+    "categoryC": "代名詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/he.mp3"
+  },
+  {
+    "voc": "head",
+    "chinese": "頭",
+    "pos": "名詞",
+    "categoryE": "Parts of body",
+    "categoryC": "身體部位",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/head.mp3"
+  },
+  {
+    "voc": "headache",
+    "chinese": "頭痛",
+    "pos": "名詞",
+    "categoryE": "Health",
+    "categoryC": "健康",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/headache.mp3"
+  },
+  {
+    "voc": "heavy",
+    "chinese": "重的 (人)",
+    "pos": "形容詞",
+    "categoryE": "Personal characteristics",
+    "categoryC": "個性/特點",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/heavy.mp3"
+  },
+  {
+    "voc": "hello",
+    "chinese": "哈囉",
+    "pos": "感嘆詞",
+    "categoryE": "Interjections",
+    "categoryC": "感嘆詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/hello.mp3"
+  },
+  {
+    "voc": "help",
+    "chinese": "幫助",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/help.mp3"
+  },
+  {
+    "voc": "her",
+    "chinese": "她的",
+    "pos": "限定詞",
+    "categoryE": "Articles & determiners",
+    "categoryC": "冠詞/限定詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/her.mp3"
+  },
+  {
+    "voc": "here",
+    "chinese": "這裡",
+    "pos": "副詞",
+    "categoryE": "Places & directions",
+    "categoryC": "地點/方位",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/here.mp3"
+  },
+  {
+    "voc": "hi",
+    "chinese": "嗨",
+    "pos": "感嘆詞",
+    "categoryE": "Interjections",
+    "categoryC": "感嘆詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/hi.mp3"
+  },
+  {
+    "voc": "high",
+    "chinese": "高的",
+    "pos": "形容詞",
+    "categoryE": "Sizes & measurements",
+    "categoryC": "尺寸/計量",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/high.mp3"
+  },
+  {
+    "voc": "hike",
+    "chinese": "健行",
+    "pos": "動詞",
+    "categoryE": "Sports, interests & hobbies",
+    "categoryC": "運動/興趣/嗜好",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/hike.mp3"
+  },
+  {
+    "voc": "him",
+    "chinese": "他(受詞)",
+    "pos": "代名詞",
+    "categoryE": "Pronouns",
+    "categoryC": "代名詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/him.mp3"
+  },
+  {
+    "voc": "hippo",
+    "chinese": "河馬",
+    "pos": "名詞",
+    "categoryE": "Animals & insects",
+    "categoryC": "動物/昆蟲",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/hippo.mp3"
+  },
+  {
+    "voc": "his",
+    "chinese": "他的",
+    "pos": "限定詞",
+    "categoryE": "Articles & determiners",
+    "categoryC": "冠詞/限定詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/his.mp3"
+  },
+  {
+    "voc": "hit",
+    "chinese": "打、碰撞",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/hit.mp3"
+  },
+  {
+    "voc": "home",
+    "chinese": "家庭",
+    "pos": "名詞",
+    "categoryE": "Houses & apartments",
+    "categoryC": "房子/公寓",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/home.mp3"
+  },
+  {
+    "voc": "homework",
+    "chinese": "回家作業",
+    "pos": "名詞",
+    "categoryE": "School",
+    "categoryC": "學校",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/homework.mp3"
+  },
+  {
+    "voc": "hope",
+    "chinese": "希望",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/hope.mp3"
+  },
+  {
+    "voc": "horse",
+    "chinese": "馬",
+    "pos": "名詞",
+    "categoryE": "Animals & insects",
+    "categoryC": "動物/昆蟲",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/horse.mp3"
+  },
+  {
+    "voc": "hospital",
+    "chinese": "醫院",
+    "pos": "名詞",
+    "categoryE": "Places & directions",
+    "categoryC": "地點/方位",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/hospital.mp3"
+  },
+  {
+    "voc": "hot",
+    "chinese": "熱的",
+    "pos": "形容詞",
+    "categoryE": "Weather & nature",
+    "categoryC": "天氣/自然",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/hot.mp3"
+  },
+  {
+    "voc": "house",
+    "chinese": "房子",
+    "pos": "名詞",
+    "categoryE": "Houses & apartments",
+    "categoryC": "房子/公寓",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/house.mp3"
+  },
+  {
+    "voc": "how",
+    "chinese": "如何...",
+    "pos": "副詞",
+    "categoryE": "Wh-words",
+    "categoryC": "疑問詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/how.mp3"
+  },
+  {
+    "voc": "hundred",
+    "chinese": "一百",
+    "pos": "數字",
+    "categoryE": "Numbers",
+    "categoryC": "數字",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/hundred.mp3"
+  },
+  {
+    "voc": "hungry",
+    "chinese": "餓的",
+    "pos": "形容詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/hungry.mp3"
+  },
+  {
+    "voc": "hurry",
+    "chinese": "趕快、急忙",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/hurry.mp3"
+  },
+  {
+    "voc": "hurt",
+    "chinese": "受傷",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/hurt.mp3"
+  },
+  {
+    "voc": "I",
+    "chinese": "我",
+    "pos": "代名詞",
+    "categoryE": "Pronouns",
+    "categoryC": "代名詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/i.mp3"
+  },
+  {
+    "voc": "ice cream",
+    "chinese": "冰淇淋",
+    "pos": "名詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/ice_cream.mp3"
+  },
+  {
+    "voc": "in",
+    "chinese": "在...裡面、在某短時間裡",
+    "pos": "介系詞",
+    "categoryE": "Prepositions",
+    "categoryC": "介系詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/in.mp3"
+  },
+  {
+    "voc": "in front of",
+    "chinese": "在...前面",
+    "pos": "介系詞",
+    "categoryE": "Prepositions",
+    "categoryC": "介系詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/in_front_of.mp3"
+  },
+  {
+    "voc": "inside",
+    "chinese": "在...裡面、向...裡面",
+    "pos": "介系詞",
+    "categoryE": "Prepositions",
+    "categoryC": "介系詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/inside.mp3"
+  },
+  {
+    "voc": "interesting",
+    "chinese": "有趣的",
+    "pos": "形容詞",
+    "categoryE": "Other adjectives",
+    "categoryC": "其他形容詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/interesting.mp3",
+    "remarks": "非GEPT初級"
+  },
+  {
+    "voc": "it",
+    "chinese": "它、牠",
+    "pos": "代名詞",
+    "categoryE": "Pronouns",
+    "categoryC": "代名詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/it.mp3"
+  },
+  {
+    "voc": "its",
+    "chinese": "它的、牠的",
+    "pos": "限定詞",
+    "categoryE": "Articles & determiners",
+    "categoryC": "冠詞/限定詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/its.mp3"
+  },
+  {
+    "voc": "jacket",
+    "chinese": "夾克、外套",
+    "pos": "名詞",
+    "categoryE": "Clothing & accessories",
+    "categoryC": "衣服/配件",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/jacket.mp3"
+  },
+  {
+    "voc": "January",
+    "chinese": "一月",
+    "pos": "名詞",
+    "categoryE": "Time",
+    "categoryC": "時間",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/january.mp3"
+  },
+  {
+    "voc": "Japan",
+    "chinese": "日本",
+    "pos": "名詞",
+    "categoryE": "Places & directions",
+    "categoryC": "地點/方位",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/Japan.mp3"
+  },
+  {
+    "voc": "job",
+    "chinese": "工作、職業",
+    "pos": "名詞",
+    "categoryE": "Occupations",
+    "categoryC": "工作",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/job.mp3"
+  },
+  {
+    "voc": "juice",
+    "chinese": "果汁",
+    "pos": "名詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/juice.mp3"
+  },
+  {
+    "voc": "July",
+    "chinese": "七月",
+    "pos": "名詞",
+    "categoryE": "Time",
+    "categoryC": "時間",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/july.mp3"
+  },
+  {
+    "voc": "jump",
+    "chinese": "跳",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/jump.mp3"
+  },
+  {
+    "voc": "June",
+    "chinese": "六月",
+    "pos": "名詞",
+    "categoryE": "Time",
+    "categoryC": "時間",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/june.mp3"
+  },
+  {
+    "voc": "key",
+    "chinese": "鑰匙",
+    "pos": "名詞",
+    "categoryE": "Houses & apartments",
+    "categoryC": "房子/公寓",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/key.mp3"
+  },
+  {
+    "voc": "kid",
+    "chinese": "小孩",
+    "pos": "名詞",
+    "categoryE": "People",
+    "categoryC": "人",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/kid.mp3"
+  },
+  {
+    "voc": "kitchen",
+    "chinese": "廚房",
+    "pos": "名詞",
+    "categoryE": "Houses & apartments",
+    "categoryC": "房子/公寓",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/kitchen.mp3"
+  },
+  {
+    "voc": "kite",
+    "chinese": "風箏",
+    "pos": "名詞",
+    "categoryE": "Sports, interests & hobbies",
+    "categoryC": "運動/興趣/嗜好",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/kite.mp3"
+  },
+  {
+    "voc": "knife",
+    "chinese": "刀子",
+    "pos": "名詞",
+    "categoryE": "Tableware",
+    "categoryC": "餐具",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/knife.mp3"
+  },
+  {
+    "voc": "know",
+    "chinese": "知道、認識",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/know.mp3"
+  },
+  {
+    "voc": "koala",
+    "chinese": "無尾熊",
+    "pos": "名詞",
+    "categoryE": "Animals & insects",
+    "categoryC": "動物/昆蟲",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/koala.mp3"
+  },
+  {
+    "voc": "lake",
+    "chinese": "湖",
+    "pos": "名詞",
+    "categoryE": "Geographical terms",
+    "categoryC": "地理名詞",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/lake.mp3"
+  },
+  {
+    "voc": "lamp",
+    "chinese": "燈",
+    "pos": "名詞",
+    "categoryE": "Houses & apartments",
+    "categoryC": "房子/公寓",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/lamp.mp3"
+  },
+  {
+    "voc": "last",
+    "chinese": "最後的",
+    "pos": "限定詞, 形容詞",
+    "categoryE": "Numbers",
+    "categoryC": "數字",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/last.mp3"
+  },
+  {
+    "voc": "late",
+    "chinese": "晚到（的）",
+    "pos": "形容詞, 副詞",
+    "categoryE": "Time",
+    "categoryC": "時間",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/late.mp3"
+  },
+  {
+    "voc": "laugh",
+    "chinese": "笑",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/laugh.mp3"
+  },
+  {
+    "voc": "lazy",
+    "chinese": "懶惰的",
+    "pos": "形容詞",
+    "categoryE": "Personal characteristics",
+    "categoryC": "個性/特點",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/lazy.mp3"
+  },
+  {
+    "voc": "left",
+    "chinese": "左邊(的)",
+    "pos": "形容詞, 副詞",
+    "categoryE": "Places & directions",
+    "categoryC": "地點/方位",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/left.mp3"
+  },
+  {
+    "voc": "leg",
+    "chinese": "腿",
+    "pos": "名詞",
+    "categoryE": "Parts of body",
+    "categoryC": "身體部位",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/leg.mp3"
+  },
+  {
+    "voc": "lemon",
+    "chinese": "檸檬",
+    "pos": "名詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/lemon.mp3"
+  },
+  {
+    "voc": "let's",
+    "chinese": "讓我們...",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/let_s.mp3"
+  },
+  {
+    "voc": "library",
+    "chinese": "圖書館",
+    "pos": "名詞",
+    "categoryE": "School",
+    "categoryC": "學校",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/library.mp3"
+  },
+  {
+    "voc": "light",
+    "chinese": "輕的",
+    "pos": "形容詞",
+    "categoryE": "Sizes & measurements",
+    "categoryC": "尺寸/計量",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/light.mp3"
+  },
+  {
+    "voc": "like",
+    "chinese": "喜歡",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/like.mp3"
+  },
+  {
+    "voc": "lion",
+    "chinese": "獅子",
+    "pos": "名詞",
+    "categoryE": "Animals & insects",
+    "categoryC": "動物/昆蟲",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/lion.mp3"
+  },
+  {
+    "voc": "listen",
+    "chinese": "聽",
+    "pos": "動詞",
+    "categoryE": "School",
+    "categoryC": "學校",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/listen.mp3"
+  },
+  {
+    "voc": "live",
+    "chinese": "住",
+    "pos": "動詞",
+    "categoryE": "Family",
+    "categoryC": "家庭",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/live.mp3"
+  },
+  {
+    "voc": "living room",
+    "chinese": "客廳",
+    "pos": "名詞",
+    "categoryE": "Houses & apartments",
+    "categoryC": "房子/公寓",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/living_room.mp3",
+    "remarks": "非GEPT初級"
+  },
+  {
+    "voc": "long",
+    "chinese": "長的",
+    "pos": "形容詞",
+    "categoryE": "Sizes & measurements",
+    "categoryC": "尺寸/計量",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/long.mp3"
+  },
+  {
+    "voc": "look",
+    "chinese": "看、看起來",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/look.mp3"
+  },
+  {
+    "voc": "love",
+    "chinese": "愛、喜愛",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/love.mp3"
+  },
+  {
+    "voc": "lunch",
+    "chinese": "午餐",
+    "pos": "名詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/lunch.mp3"
+  },
+  {
+    "voc": "mad",
+    "chinese": "生氣的、氣憤的",
+    "pos": "形容詞",
+    "categoryE": "Personal characteristics",
+    "categoryC": "個性/特點",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/mad.mp3"
+  },
+  {
+    "voc": "mail",
+    "chinese": "信",
+    "pos": "名詞",
+    "categoryE": "Other nouns",
+    "categoryC": "其他名詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/mail.mp3"
+  },
+  {
+    "voc": "mailman",
+    "chinese": "郵差",
+    "pos": "名詞",
+    "categoryE": "Occupations",
+    "categoryC": "工作",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/mailman.mp3"
+  },
+  {
+    "voc": "make",
+    "chinese": "做、製造",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/make.mp3"
+  },
+  {
+    "voc": "man",
+    "chinese": "男人",
+    "pos": "名詞",
+    "categoryE": "People",
+    "categoryC": "人",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/man.mp3"
+  },
+  {
+    "voc": "many",
+    "chinese": "許多(例如many flowers)",
+    "pos": "限定詞, 形容詞",
+    "categoryE": "Numbers",
+    "categoryC": "數字",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/many.mp3"
+  },
+  {
+    "voc": "March",
+    "chinese": "三月",
+    "pos": "名詞",
+    "categoryE": "Time",
+    "categoryC": "時間",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/march.mp3"
+  },
+  {
+    "voc": "marker",
+    "chinese": "麥克筆",
+    "pos": "名詞",
+    "categoryE": "School",
+    "categoryC": "學校",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/marker.mp3"
+  },
+  {
+    "voc": "market",
+    "chinese": "市場",
+    "pos": "名詞",
+    "categoryE": "Places & directions",
+    "categoryC": "地點/方位",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/market.mp3"
+  },
+  {
+    "voc": "math",
+    "chinese": "數學",
+    "pos": "名詞",
+    "categoryE": "School",
+    "categoryC": "學校",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/math.mp3"
+  },
+  {
+    "voc": "May",
+    "chinese": "五月",
+    "pos": "名詞",
+    "categoryE": "Time",
+    "categoryC": "時間",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/may.mp3"
+  },
+  {
+    "voc": "maybe",
+    "chinese": "也許",
+    "pos": "副詞",
+    "categoryE": "Other adverbs",
+    "categoryC": "其他副詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/maybe.mp3"
+  },
+  {
+    "voc": "me",
+    "chinese": "我(受詞)",
+    "pos": "代名詞",
+    "categoryE": "Pronouns",
+    "categoryC": "代名詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/me.mp3"
+  },
+  {
+    "voc": "meal",
+    "chinese": "餐",
+    "pos": "名詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/meal.mp3"
+  },
+  {
+    "voc": "meet",
+    "chinese": "遇見、會面",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/meet.mp3"
+  },
+  {
+    "voc": "men",
+    "chinese": "男人 (複數)",
+    "pos": "名詞",
+    "categoryE": "People",
+    "categoryC": "人",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/men.mp3"
+  },
+  {
+    "voc": "mice",
+    "chinese": "老鼠 (複數)",
+    "pos": "名詞",
+    "categoryE": "Animals & insects",
+    "categoryC": "動物/昆蟲",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/mice.mp3"
+  },
+  {
+    "voc": "milk",
+    "chinese": "牛奶",
+    "pos": "名詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/milk.mp3"
+  },
+  {
+    "voc": "Miss",
+    "chinese": "小姐",
+    "pos": "",
+    "categoryE": "Forms of address",
+    "categoryC": "稱謂",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/miss.mp3"
+  },
+  {
+    "voc": "mom",
+    "chinese": "媽媽 (= mother; mommy)",
+    "pos": "名詞",
+    "categoryE": "Family",
+    "categoryC": "家庭",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/mom.mp3"
+  },
+  {
+    "voc": "mommy",
+    "chinese": "媽媽 (= mother; mom)",
+    "pos": "名詞",
+    "categoryE": "Family",
+    "categoryC": "家庭",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/mommy.mp3"
+  },
+  {
+    "voc": "Monday",
+    "chinese": "星期一",
+    "pos": "名詞",
+    "categoryE": "Time",
+    "categoryC": "時間",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/monday.mp3"
+  },
+  {
+    "voc": "money",
+    "chinese": "錢",
+    "pos": "名詞",
+    "categoryE": "Money",
+    "categoryC": "金錢",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/money.mp3"
+  },
+  {
+    "voc": "monkey",
+    "chinese": "猴子",
+    "pos": "名詞",
+    "categoryE": "Animals & insects",
+    "categoryC": "動物/昆蟲",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/monkey.mp3"
+  },
+  {
+    "voc": "month",
+    "chinese": "月",
+    "pos": "名詞",
+    "categoryE": "Time",
+    "categoryC": "時間",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/month.mp3"
+  },
+  {
+    "voc": "moon",
+    "chinese": "月亮",
+    "pos": "名詞",
+    "categoryE": "Weather & nature",
+    "categoryC": "天氣/自然",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/moon.mp3"
+  },
+  {
+    "voc": "Moon Festival",
+    "chinese": "中秋節",
+    "pos": "名詞",
+    "categoryE": "Festival",
+    "categoryC": "節日/節慶",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/Moon_Festival.mp3"
+  },
+  {
+    "voc": "mop",
+    "chinese": "用拖把拖地",
+    "pos": "動詞",
+    "categoryE": "Houses & apartments",
+    "categoryC": "房子/公寓",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/mop.mp3"
+  },
+  {
+    "voc": "more",
+    "chinese": "更多、較多",
+    "pos": "限定詞, 副詞",
+    "categoryE": "Numbers",
+    "categoryC": "數字",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/more.mp3"
+  },
+  {
+    "voc": "morning",
+    "chinese": "早上",
+    "pos": "名詞",
+    "categoryE": "Time",
+    "categoryC": "時間",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/morning.mp3"
+  },
+  {
+    "voc": "mother",
+    "chinese": "媽媽 (= mom; mommy)",
+    "pos": "名詞",
+    "categoryE": "Family",
+    "categoryC": "家庭",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/mother.mp3"
+  },
+  {
+    "voc": "motorcycle",
+    "chinese": "摩托車",
+    "pos": "名詞",
+    "categoryE": "Transportation",
+    "categoryC": "運輸",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/motorcycle.mp3"
+  },
+  {
+    "voc": "mountain",
+    "chinese": "山",
+    "pos": "名詞",
+    "categoryE": "Geographical terms",
+    "categoryC": "地理名詞",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/mountain.mp3"
+  },
+  {
+    "voc": "mouse",
+    "chinese": "老鼠",
+    "pos": "名詞",
+    "categoryE": "Animals & insects",
+    "categoryC": "動物/昆蟲",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/mouse.mp3"
+  },
+  {
+    "voc": "mouth",
+    "chinese": "嘴巴",
+    "pos": "名詞",
+    "categoryE": "Parts of body",
+    "categoryC": "身體部位",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/mouth.mp3"
+  },
+  {
+    "voc": "movie",
+    "chinese": "電影",
+    "pos": "名詞",
+    "categoryE": "Sports, interests & hobbies",
+    "categoryC": "運動/興趣/嗜好",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/movie.mp3"
+  },
+  {
+    "voc": "movie theater",
+    "chinese": "電影院",
+    "pos": "名詞",
+    "categoryE": "Places & directions",
+    "categoryC": "地點/方位",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/movie_theater.mp3"
+  },
+  {
+    "voc": "Mr.",
+    "chinese": "先生",
+    "pos": "",
+    "categoryE": "Forms of address",
+    "categoryC": "稱謂",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/mister.mp3"
+  },
+  {
+    "voc": "Mrs.",
+    "chinese": "太太",
+    "pos": "",
+    "categoryE": "Forms of address",
+    "categoryC": "稱謂",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/mrs.mp3"
+  },
+  {
+    "voc": "MRT",
+    "chinese": "捷運",
+    "pos": "名詞",
+    "categoryE": "Transportation",
+    "categoryC": "運輸",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/mrt.mp3"
+  },
+  {
+    "voc": "much",
+    "chinese": "許多(例如much water)",
+    "pos": "限定詞,副詞",
+    "categoryE": "Numbers",
+    "categoryC": "數字",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/much.mp3"
+  },
+  {
+    "voc": "museum",
+    "chinese": "博物館",
+    "pos": "名詞",
+    "categoryE": "Places & directions",
+    "categoryC": "地點/方位",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/museum.mp3"
+  },
+  {
+    "voc": "music",
+    "chinese": "音樂",
+    "pos": "名詞",
+    "categoryE": "School",
+    "categoryC": "學校",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/music.mp3"
+  },
+  {
+    "voc": "my",
+    "chinese": "我的",
+    "pos": "限定詞",
+    "categoryE": "Articles & determiners",
+    "categoryC": "冠詞/限定詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/my.mp3"
+  },
+  {
+    "voc": "name",
+    "chinese": "名字",
+    "pos": "名詞",
+    "categoryE": "Forms of address",
+    "categoryC": "稱謂",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/name.mp3"
+  },
+  {
+    "voc": "near",
+    "chinese": "靠近、接近",
+    "pos": "介系詞",
+    "categoryE": "Prepositions",
+    "categoryC": "介系詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/near.mp3"
+  },
+  {
+    "voc": "need",
+    "chinese": "需要",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/need.mp3"
+  },
+  {
+    "voc": "never",
+    "chinese": "不曾",
+    "pos": "副詞",
+    "categoryE": "Other adverbs",
+    "categoryC": "其他副詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/never.mp3"
+  },
+  {
+    "voc": "new",
+    "chinese": "新的",
+    "pos": "形容詞",
+    "categoryE": "Other adjectives",
+    "categoryC": "其他形容詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/new.mp3"
+  },
+  {
+    "voc": "next to",
+    "chinese": "在...旁邊",
+    "pos": "介系詞",
+    "categoryE": "Prepositions",
+    "categoryC": "介系詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/next_to.mp3"
+  },
+  {
+    "voc": "nice",
+    "chinese": "令人愉快的、宜人的",
+    "pos": "形容詞",
+    "categoryE": "Personal characteristics",
+    "categoryC": "個性/特點",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/nice.mp3"
+  },
+  {
+    "voc": "night",
+    "chinese": "晚上",
+    "pos": "名詞",
+    "categoryE": "Time",
+    "categoryC": "時間",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/night.mp3"
+  },
+  {
+    "voc": "nine",
+    "chinese": "九",
+    "pos": "數字",
+    "categoryE": "Numbers",
+    "categoryC": "數字",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/nine.mp3"
+  },
+  {
+    "voc": "nineteen",
+    "chinese": "十九",
+    "pos": "數字",
+    "categoryE": "Numbers",
+    "categoryC": "數字",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/nineteen.mp3"
+  },
+  {
+    "voc": "ninety",
+    "chinese": "九十",
+    "pos": "數字",
+    "categoryE": "Numbers",
+    "categoryC": "數字",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/ninety.mp3"
+  },
+  {
+    "voc": "no",
+    "chinese": "不",
+    "pos": "副詞",
+    "categoryE": "Other adverbs",
+    "categoryC": "其他副詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/no.mp3"
+  },
+  {
+    "voc": "noodles",
+    "chinese": "麵",
+    "pos": "名詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/noodles.mp3"
+  },
+  {
+    "voc": "nose",
+    "chinese": "鼻子",
+    "pos": "名詞",
+    "categoryE": "Parts of body",
+    "categoryC": "身體部位",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/nose.mp3"
+  },
+  {
+    "voc": "not",
+    "chinese": "不、沒有",
+    "pos": "副詞",
+    "categoryE": "Other adverbs",
+    "categoryC": "其他副詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/not.mp3"
+  },
+  {
+    "voc": "nothing",
+    "chinese": "什麼都沒有",
+    "pos": "代名詞",
+    "categoryE": "Pronouns",
+    "categoryC": "代名詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/nothing.mp3"
+  },
+  {
+    "voc": "November",
+    "chinese": "十一月",
+    "pos": "名詞",
+    "categoryE": "Time",
+    "categoryC": "時間",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/november.mp3"
+  },
+  {
+    "voc": "now",
+    "chinese": "現在",
+    "pos": "副詞",
+    "categoryE": "Time",
+    "categoryC": "時間",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/now.mp3"
+  },
+  {
+    "voc": "number",
+    "chinese": "數字",
+    "pos": "名詞",
+    "categoryE": "Numbers",
+    "categoryC": "數字",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/number.mp3"
+  },
+  {
+    "voc": "nurse",
+    "chinese": "護士",
+    "pos": "名詞",
+    "categoryE": "Occupations",
+    "categoryC": "工作",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/nurse.mp3"
+  },
+  {
+    "voc": "o'clock",
+    "chinese": "...點鐘",
+    "pos": "副詞",
+    "categoryE": "Time",
+    "categoryC": "時間",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/o_clock.mp3"
+  },
+  {
+    "voc": "October",
+    "chinese": "十月",
+    "pos": "名詞",
+    "categoryE": "Time",
+    "categoryC": "時間",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/october.mp3"
+  },
+  {
+    "voc": "of",
+    "chinese": "...的",
+    "pos": "介系詞",
+    "categoryE": "Prepositions",
+    "categoryC": "介系詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/of.mp3"
+  },
+  {
+    "voc": "off",
+    "chinese": "離開、從...去掉",
+    "pos": "介系詞",
+    "categoryE": "Prepositions",
+    "categoryC": "介系詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/off.mp3"
+  },
+  {
+    "voc": "office",
+    "chinese": "辦公室",
+    "pos": "名詞",
+    "categoryE": "Places & directions",
+    "categoryC": "地點/方位",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/office.mp3"
+  },
+  {
+    "voc": "OK",
+    "chinese": "好的",
+    "pos": "形容詞",
+    "categoryE": "Other adjectives",
+    "categoryC": "其他形容詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/okay.mp3"
+  },
+  {
+    "voc": "old",
+    "chinese": "1. 年紀、年齡；2. 老的",
+    "pos": "形容詞",
+    "categoryE": "Personal characteristics",
+    "categoryC": "個性/特點",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/old.mp3"
+  },
+  {
+    "voc": "on",
+    "chinese": "在...上面；在(某一天)",
+    "pos": "介系詞",
+    "categoryE": "Prepositions",
+    "categoryC": "介系詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/on.mp3"
+  },
+  {
+    "voc": "one",
+    "chinese": "一",
+    "pos": "數字",
+    "categoryE": "Numbers",
+    "categoryC": "數字",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/one.mp3"
+  },
+  {
+    "voc": "only",
+    "chinese": "僅有的",
+    "pos": "形容詞",
+    "categoryE": "Other adjectives",
+    "categoryC": "其他形容詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/only.mp3"
+  },
+  {
+    "voc": "open",
+    "chinese": "開",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/open.mp3"
+  },
+  {
+    "voc": "orange",
+    "chinese": "橘色的",
+    "pos": "形容詞",
+    "categoryE": "Colors",
+    "categoryC": "顏色",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/orange.mp3"
+  },
+  {
+    "voc": "other",
+    "chinese": "其他的",
+    "pos": "形容詞, 代名詞, 限定詞",
+    "categoryE": "Other adjectives",
+    "categoryC": "其他形容詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/other.mp3"
+  },
+  {
+    "voc": "our",
+    "chinese": "我們的",
+    "pos": "限定詞",
+    "categoryE": "Articles & determiners",
+    "categoryC": "冠詞/限定詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/our.mp3"
+  },
+  {
+    "voc": "out",
+    "chinese": "向外地",
+    "pos": "介系詞",
+    "categoryE": "Prepositions",
+    "categoryC": "介系詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/out.mp3"
+  },
+  {
+    "voc": "outside",
+    "chinese": "在...外面、向...外面",
+    "pos": "介系詞",
+    "categoryE": "Prepositions",
+    "categoryC": "介系詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/outside.mp3"
+  },
+  {
+    "voc": "over",
+    "chinese": "在...上方",
+    "pos": "介系詞",
+    "categoryE": "Prepositions",
+    "categoryC": "介系詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/over.mp3"
+  },
+  {
+    "voc": "paint",
+    "chinese": "用顏料畫、刷油漆",
+    "pos": "動詞",
+    "categoryE": "Sports, interests & hobbies",
+    "categoryC": "運動/興趣/嗜好",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/paint.mp3"
+  },
+  {
+    "voc": "pair",
+    "chinese": "一雙、一對",
+    "pos": "名詞",
+    "categoryE": "Sizes & measurements",
+    "categoryC": "尺寸/計量",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/pair.mp3"
+  },
+  {
+    "voc": "panda",
+    "chinese": "大貓熊",
+    "pos": "名詞",
+    "categoryE": "Animals & insects",
+    "categoryC": "動物/昆蟲",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/panda.mp3"
+  },
+  {
+    "voc": "pants",
+    "chinese": "長褲",
+    "pos": "名詞",
+    "categoryE": "Clothing & accessories",
+    "categoryC": "衣服/配件",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/pants.mp3"
+  },
+  {
+    "voc": "paper",
+    "chinese": "紙張",
+    "pos": "名詞",
+    "categoryE": "School",
+    "categoryC": "學校",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/paper.mp3"
+  },
+  {
+    "voc": "parent",
+    "chinese": "父母親",
+    "pos": "名詞",
+    "categoryE": "Family",
+    "categoryC": "家庭",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/parent.mp3"
+  },
+  {
+    "voc": "park",
+    "chinese": "公園",
+    "pos": "名詞",
+    "categoryE": "Places & directions",
+    "categoryC": "地點/方位",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/park.mp3"
+  },
+  {
+    "voc": "party",
+    "chinese": "派對",
+    "pos": "名詞",
+    "categoryE": "Other nouns",
+    "categoryC": "其他名詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/party.mp3"
+  },
+  {
+    "voc": "PE",
+    "chinese": "體育（課）",
+    "pos": "名詞",
+    "categoryE": "School",
+    "categoryC": "學校",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/PE.mp3"
+  },
+  {
+    "voc": "peach",
+    "chinese": "桃子",
+    "pos": "名詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/peach.mp3"
+  },
+  {
+    "voc": "pen",
+    "chinese": "筆、鋼筆",
+    "pos": "名詞",
+    "categoryE": "School",
+    "categoryC": "學校",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/pen.mp3"
+  },
+  {
+    "voc": "pencil",
+    "chinese": "鉛筆",
+    "pos": "名詞",
+    "categoryE": "School",
+    "categoryC": "學校",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/pencil.mp3"
+  },
+  {
+    "voc": "people",
+    "chinese": "人 (複數)",
+    "pos": "名詞",
+    "categoryE": "People",
+    "categoryC": "人",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/people.mp3"
+  },
+  {
+    "voc": "person",
+    "chinese": "人",
+    "pos": "名詞",
+    "categoryE": "People",
+    "categoryC": "人",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/person.mp3"
+  },
+  {
+    "voc": "pet",
+    "chinese": "寵物",
+    "pos": "名詞",
+    "categoryE": "Animals & insects",
+    "categoryC": "動物/昆蟲",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/pet.mp3"
+  },
+  {
+    "voc": "photo",
+    "chinese": "照片",
+    "pos": "名詞",
+    "categoryE": "Other nouns",
+    "categoryC": "其他名詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/photo.mp3"
+  },
+  {
+    "voc": "piano",
+    "chinese": "鋼琴",
+    "pos": "名詞",
+    "categoryE": "Sports, interests & hobbies",
+    "categoryC": "運動/興趣/嗜好",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/piano.mp3"
+  },
+  {
+    "voc": "pick up",
+    "chinese": "撿起、接（人）、接（電話）",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/pick_up.mp3"
+  },
+  {
+    "voc": "picture",
+    "chinese": "圖片、照片",
+    "pos": "名詞",
+    "categoryE": "School",
+    "categoryC": "學校",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/picture.mp3"
+  },
+  {
+    "voc": "pie",
+    "chinese": "派",
+    "pos": "名詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/pie.mp3"
+  },
+  {
+    "voc": "pig",
+    "chinese": "豬",
+    "pos": "名詞",
+    "categoryE": "Animals & insects",
+    "categoryC": "動物/昆蟲",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/pig.mp3"
+  },
+  {
+    "voc": "pink",
+    "chinese": "粉紅色的",
+    "pos": "形容詞",
+    "categoryE": "Colors",
+    "categoryC": "顏色",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/pink.mp3"
+  },
+  {
+    "voc": "pizza",
+    "chinese": "披薩",
+    "pos": "名詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/pizza.mp3"
+  },
+  {
+    "voc": "plane",
+    "chinese": "飛機 (= airplane)",
+    "pos": "名詞",
+    "categoryE": "Transportation",
+    "categoryC": "運輸",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/plane.mp3"
+  },
+  {
+    "voc": "play",
+    "chinese": "玩",
+    "pos": "動詞",
+    "categoryE": "Sports, interests & hobbies",
+    "categoryC": "運動/興趣/嗜好",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/play.mp3"
+  },
+  {
+    "voc": "please",
+    "chinese": "請",
+    "pos": "感嘆詞",
+    "categoryE": "Interjections",
+    "categoryC": "感嘆詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/please.mp3"
+  },
+  {
+    "voc": "pocket",
+    "chinese": "口袋",
+    "pos": "名詞",
+    "categoryE": "Clothing & accessories",
+    "categoryC": "衣服/配件",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/pocket.mp3"
+  },
+  {
+    "voc": "police officer",
+    "chinese": "警察",
+    "pos": "名詞",
+    "categoryE": "Occupations",
+    "categoryC": "工作",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/police_officer.mp3"
+  },
+  {
+    "voc": "police station",
+    "chinese": "警察局",
+    "pos": "名詞",
+    "categoryE": "Places & directions",
+    "categoryC": "地點/方位",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/police_station.mp3"
+  },
+  {
+    "voc": "pork",
+    "chinese": "豬肉",
+    "pos": "名詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/pork.mp3"
+  },
+  {
+    "voc": "post office",
+    "chinese": "郵局",
+    "pos": "名詞",
+    "categoryE": "Places & directions",
+    "categoryC": "地點/方位",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/post_office.mp3"
+  },
+  {
+    "voc": "pretty",
+    "chinese": "漂亮的",
+    "pos": "形容詞",
+    "categoryE": "Personal characteristics",
+    "categoryC": "個性/特點",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/pretty.mp3"
+  },
+  {
+    "voc": "pumpkin",
+    "chinese": "南瓜",
+    "pos": "名詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/pumpkin.mp3"
+  },
+  {
+    "voc": "purple",
+    "chinese": "紫色的",
+    "pos": "形容詞",
+    "categoryE": "Colors",
+    "categoryC": "顏色",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/purple.mp3"
+  },
+  {
+    "voc": "put",
+    "chinese": "放",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/put.mp3"
+  },
+  {
+    "voc": "question",
+    "chinese": "問題",
+    "pos": "名詞",
+    "categoryE": "School",
+    "categoryC": "學校",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/question.mp3"
+  },
+  {
+    "voc": "quiet",
+    "chinese": "安靜的",
+    "pos": "形容詞",
+    "categoryE": "Other adjectives",
+    "categoryC": "其他形容詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/quiet.mp3"
+  },
+  {
+    "voc": "rabbit",
+    "chinese": "兔子",
+    "pos": "名詞",
+    "categoryE": "Animals & insects",
+    "categoryC": "動物/昆蟲",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/rabbit.mp3"
+  },
+  {
+    "voc": "rain",
+    "chinese": "雨水",
+    "pos": "名詞",
+    "categoryE": "Weather & nature",
+    "categoryC": "天氣/自然",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/rain.mp3"
+  },
+  {
+    "voc": "rainbow",
+    "chinese": "彩虹",
+    "pos": "名詞",
+    "categoryE": "Weather & nature",
+    "categoryC": "天氣/自然",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/rainbow.mp3"
+  },
+  {
+    "voc": "rainy",
+    "chinese": "下雨的/多雨的",
+    "pos": "形容詞",
+    "categoryE": "Weather & nature",
+    "categoryC": "天氣/自然",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/rainy.mp3"
+  },
+  {
+    "voc": "read",
+    "chinese": "閱讀",
+    "pos": "動詞",
+    "categoryE": "School",
+    "categoryC": "學校",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/read.mp3"
+  },
+  {
+    "voc": "ready",
+    "chinese": "準備好的",
+    "pos": "形容詞",
+    "categoryE": "Other adjectives",
+    "categoryC": "其他形容詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/ready.mp3"
+  },
+  {
+    "voc": "really",
+    "chinese": "真正地",
+    "pos": "副詞",
+    "categoryE": "Other adverbs",
+    "categoryC": "其他副詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/really.mp3"
+  },
+  {
+    "voc": "red",
+    "chinese": "紅色的",
+    "pos": "形容詞",
+    "categoryE": "Colors",
+    "categoryC": "顏色",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/red.mp3"
+  },
+  {
+    "voc": "refrigerator",
+    "chinese": "電冰箱 (= fridge)",
+    "pos": "名詞",
+    "categoryE": "Houses & apartments",
+    "categoryC": "房子/公寓",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/refrigerator.mp3",
+    "remarks": "非GEPT初級"
+  },
+  {
+    "voc": "restaurant",
+    "chinese": "餐廳",
+    "pos": "名詞",
+    "categoryE": "Places & directions",
+    "categoryC": "地點/方位",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/restaurant.mp3"
+  },
+  {
+    "voc": "restroom",
+    "chinese": "洗手間、廁所",
+    "pos": "名詞",
+    "categoryE": "Places & directions",
+    "categoryC": "地點/方位",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/rest_room.mp3"
+  },
+  {
+    "voc": "rice",
+    "chinese": "米飯",
+    "pos": "名詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/rice.mp3"
+  },
+  {
+    "voc": "ride",
+    "chinese": "騎（機車、腳踏車等）",
+    "pos": "動詞",
+    "categoryE": "Transportation",
+    "categoryC": "運輸",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/ride.mp3"
+  },
+  {
+    "voc": "right",
+    "chinese": "對的",
+    "pos": "形容詞",
+    "categoryE": "Other adjectives",
+    "categoryC": "其他形容詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/right.mp3"
+  },
+  {
+    "voc": "river",
+    "chinese": "河流",
+    "pos": "名詞",
+    "categoryE": "Geographical terms",
+    "categoryC": "地理名詞",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/river.mp3"
+  },
+  {
+    "voc": "robot",
+    "chinese": "機器人",
+    "pos": "名詞",
+    "categoryE": "Other nouns",
+    "categoryC": "其他名詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/robot.mp3"
+  },
+  {
+    "voc": "ruler",
+    "chinese": "尺",
+    "pos": "名詞",
+    "categoryE": "School",
+    "categoryC": "學校",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/ruler.mp3"
+  },
+  {
+    "voc": "run",
+    "chinese": "跑、跑步",
+    "pos": "動詞",
+    "categoryE": "Sports, interests & hobbies",
+    "categoryC": "運動/興趣/嗜好",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/run.mp3"
+  },
+  {
+    "voc": "sad",
+    "chinese": "傷心的、難過的",
+    "pos": "形容詞",
+    "categoryE": "Personal characteristics",
+    "categoryC": "個性/特點",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/sad.mp3"
+  },
+  {
+    "voc": "salad",
+    "chinese": "沙拉",
+    "pos": "名詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/salad.mp3"
+  },
+  {
+    "voc": "sale",
+    "chinese": "拍賣、特價",
+    "pos": "名詞",
+    "categoryE": "Other nouns",
+    "categoryC": "其他名詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/sale.mp3"
+  },
+  {
+    "voc": "sandwich",
+    "chinese": "三明治",
+    "pos": "名詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/sandwich.mp3"
+  },
+  {
+    "voc": "Saturday",
+    "chinese": "星期六",
+    "pos": "名詞",
+    "categoryE": "Time",
+    "categoryC": "時間",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/saturday.mp3"
+  },
+  {
+    "voc": "say",
+    "chinese": "說",
+    "pos": "動詞",
+    "categoryE": "School",
+    "categoryC": "學校",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/say.mp3"
+  },
+  {
+    "voc": "school",
+    "chinese": "學校",
+    "pos": "名詞",
+    "categoryE": "School",
+    "categoryC": "學校",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/school.mp3"
+  },
+  {
+    "voc": "science",
+    "chinese": "科學",
+    "pos": "名詞",
+    "categoryE": "School",
+    "categoryC": "學校",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/science.mp3"
+  },
+  {
+    "voc": "scooter",
+    "chinese": "輕型機車",
+    "pos": "名詞",
+    "categoryE": "Transportation",
+    "categoryC": "運輸",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/scooter.mp3"
+  },
+  {
+    "voc": "sea",
+    "chinese": "大海",
+    "pos": "名詞",
+    "categoryE": "Geographical terms",
+    "categoryC": "地理名詞",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/sea.mp3"
+  },
+  {
+    "voc": "season",
+    "chinese": "季節",
+    "pos": "名詞",
+    "categoryE": "Time",
+    "categoryC": "時間",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/season.mp3"
+  },
+  {
+    "voc": "second",
+    "chinese": "第二",
+    "pos": "數字",
+    "categoryE": "Numbers",
+    "categoryC": "數字",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/second.mp3"
+  },
+  {
+    "voc": "see",
+    "chinese": "看見",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/see.mp3"
+  },
+  {
+    "voc": "September",
+    "chinese": "九月",
+    "pos": "名詞",
+    "categoryE": "Time",
+    "categoryC": "時間",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/september.mp3"
+  },
+  {
+    "voc": "seven",
+    "chinese": "七",
+    "pos": "數字",
+    "categoryE": "Numbers",
+    "categoryC": "數字",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/seven.mp3"
+  },
+  {
+    "voc": "seventeen",
+    "chinese": "十七",
+    "pos": "數字",
+    "categoryE": "Numbers",
+    "categoryC": "數字",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/seventeen.mp3"
+  },
+  {
+    "voc": "seventy",
+    "chinese": "七十",
+    "pos": "數字",
+    "categoryE": "Numbers",
+    "categoryC": "數字",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/seventy.mp3"
+  },
+  {
+    "voc": "she",
+    "chinese": "她",
+    "pos": "代名詞",
+    "categoryE": "Pronouns",
+    "categoryC": "代名詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/she.mp3"
+  },
+  {
+    "voc": "sheep",
+    "chinese": "綿羊",
+    "pos": "名詞",
+    "categoryE": "Animals & insects",
+    "categoryC": "動物/昆蟲",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/sheep.mp3"
+  },
+  {
+    "voc": "shelf",
+    "chinese": "架子",
+    "pos": "名詞",
+    "categoryE": "Houses & apartments",
+    "categoryC": "房子/公寓",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/shelf.mp3",
+    "remarks": "非1200字表"
+  },
+  {
+    "voc": "ship",
+    "chinese": "（大）船",
+    "pos": "名詞",
+    "categoryE": "Transportation",
+    "categoryC": "運輸",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/ship.mp3"
+  },
+  {
+    "voc": "shirt",
+    "chinese": "襯衫",
+    "pos": "名詞",
+    "categoryE": "Clothing & accessories",
+    "categoryC": "衣服/配件",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/shirt.mp3"
+  },
+  {
+    "voc": "shoes",
+    "chinese": "鞋子",
+    "pos": "名詞",
+    "categoryE": "Clothing & accessories",
+    "categoryC": "衣服/配件",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/shoes.mp3"
+  },
+  {
+    "voc": "shop",
+    "chinese": "商店 (UK; 英式英語)",
+    "pos": "名詞",
+    "categoryE": "Places & directions",
+    "categoryC": "地點/方位",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/shop.mp3"
+  },
+  {
+    "voc": "short",
+    "chinese": "矮的",
+    "pos": "形容詞",
+    "categoryE": "Personal characteristics",
+    "categoryC": "個性/特點",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/short.mp3"
+  },
+  {
+    "voc": "shorts",
+    "chinese": "短褲",
+    "pos": "名詞",
+    "categoryE": "Clothing & accessories",
+    "categoryC": "衣服/配件",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/shorts.mp3"
+  },
+  {
+    "voc": "show",
+    "chinese": "給...看、展示",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/show.mp3"
+  },
+  {
+    "voc": "shower",
+    "chinese": "淋浴",
+    "pos": "名詞",
+    "categoryE": "Houses & apartments",
+    "categoryC": "房子/公寓",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/shower.mp3",
+    "remarks": "非1200字表"
+  },
+  {
+    "voc": "sick",
+    "chinese": "生病的",
+    "pos": "形容詞",
+    "categoryE": "Health",
+    "categoryC": "健康",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/sick.mp3"
+  },
+  {
+    "voc": "sing",
+    "chinese": "唱歌",
+    "pos": "動詞",
+    "categoryE": "\"Sports, interests & hobbies\"",
+    "categoryC": "運動/興趣/嗜好",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/sing.mp3"
+  },
+  {
+    "voc": "singer",
+    "chinese": "歌手",
+    "pos": "名詞",
+    "categoryE": "Occupations",
+    "categoryC": "工作",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/singer.mp3"
+  },
+  {
+    "voc": "sister",
+    "chinese": "姐姐、妹妹",
+    "pos": "名詞",
+    "categoryE": "Family",
+    "categoryC": "家庭",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/sister.mp3"
+  },
+  {
+    "voc": "sit",
+    "chinese": "坐下",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/sit.mp3"
+  },
+  {
+    "voc": "six",
+    "chinese": "六",
+    "pos": "數字",
+    "categoryE": "Numbers",
+    "categoryC": "數字",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/six.mp3"
+  },
+  {
+    "voc": "sixteen",
+    "chinese": "十六",
+    "pos": "數字",
+    "categoryE": "Numbers",
+    "categoryC": "數字",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/sixteen.mp3"
+  },
+  {
+    "voc": "sixty",
+    "chinese": "六十",
+    "pos": "數字",
+    "categoryE": "Numbers",
+    "categoryC": "數字",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/sixty.mp3"
+  },
+  {
+    "voc": "skirt",
+    "chinese": "裙子",
+    "pos": "名詞",
+    "categoryE": "Clothing & accessories",
+    "categoryC": "衣服/配件",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/skirt.mp3"
+  },
+  {
+    "voc": "sky",
+    "chinese": "天空",
+    "pos": "名詞",
+    "categoryE": "Weather & nature",
+    "categoryC": "天氣/自然",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/sky.mp3"
+  },
+  {
+    "voc": "sleep",
+    "chinese": "睡覺",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/sleep.mp3"
+  },
+  {
+    "voc": "slow",
+    "chinese": "慢的",
+    "pos": "形容詞",
+    "categoryE": "Transportation",
+    "categoryC": "運輸",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/slow.mp3"
+  },
+  {
+    "voc": "small",
+    "chinese": "小的",
+    "pos": "形容詞",
+    "categoryE": "Sizes & measurements",
+    "categoryC": "尺寸/計量",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/small.mp3"
+  },
+  {
+    "voc": "smart",
+    "chinese": "聰明的",
+    "pos": "形容詞",
+    "categoryE": "Personal characteristics",
+    "categoryC": "個性/特點",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/smart.mp3"
+  },
+  {
+    "voc": "smell",
+    "chinese": "聞起來",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/smell.mp3"
+  },
+  {
+    "voc": "snake",
+    "chinese": "蛇",
+    "pos": "名詞",
+    "categoryE": "Animals & insects",
+    "categoryC": "動物/昆蟲",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/snake.mp3"
+  },
+  {
+    "voc": "snow",
+    "chinese": "雪",
+    "pos": "名詞",
+    "categoryE": "Weather & nature",
+    "categoryC": "天氣/自然",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/snow.mp3"
+  },
+  {
+    "voc": "so",
+    "chinese": "所以",
+    "pos": "副詞",
+    "categoryE": "Other adverbs",
+    "categoryC": "其他副詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/so.mp3"
+  },
+  {
+    "voc": "soccer",
+    "chinese": "足球 (US; 美式英語)",
+    "pos": "名詞",
+    "categoryE": "\"Sports, interests & hobbies\"",
+    "categoryC": "運動/興趣/嗜好",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/soccer.mp3"
+  },
+  {
+    "voc": "socks",
+    "chinese": "襪子",
+    "pos": "名詞",
+    "categoryE": "Clothing & accessories",
+    "categoryC": "衣服/配件",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/socks.mp3"
+  },
+  {
+    "voc": "sofa",
+    "chinese": "沙發",
+    "pos": "名詞",
+    "categoryE": "Houses & apartments",
+    "categoryC": "房子/公寓",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/sofa.mp3"
+  },
+  {
+    "voc": "soldier",
+    "chinese": "軍人",
+    "pos": "名詞",
+    "categoryE": "Occupations",
+    "categoryC": "工作",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/soldier.mp3"
+  },
+  {
+    "voc": "some",
+    "chinese": "一些",
+    "pos": "限定詞",
+    "categoryE": "Numbers",
+    "categoryC": "數字",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/some.mp3"
+  },
+  {
+    "voc": "sometimes",
+    "chinese": "有時候",
+    "pos": "副詞",
+    "categoryE": "Other adverbs",
+    "categoryC": "其他副詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/sometimes.mp3"
+  },
+  {
+    "voc": "son",
+    "chinese": "兒子",
+    "pos": "名詞",
+    "categoryE": "Family",
+    "categoryC": "家庭",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/son.mp3"
+  },
+  {
+    "voc": "song",
+    "chinese": "歌曲",
+    "pos": "名詞",
+    "categoryE": "\"Sports, interests & hobbies\"",
+    "categoryC": "運動/興趣/嗜好",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/song.mp3"
+  },
+  {
+    "voc": "sorry",
+    "chinese": "感到抱歉的、對不起",
+    "pos": "形容詞",
+    "categoryE": "Other adjectives",
+    "categoryC": "其他形容詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/sorry.mp3"
+  },
+  {
+    "voc": "soup",
+    "chinese": "湯",
+    "pos": "名詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/soup.mp3"
+  },
+  {
+    "voc": "speak",
+    "chinese": "說",
+    "pos": "動詞",
+    "categoryE": "School",
+    "categoryC": "學校",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/speak.mp3"
+  },
+  {
+    "voc": "spell",
+    "chinese": "拼寫、用字母拼",
+    "pos": "動詞",
+    "categoryE": "School",
+    "categoryC": "學校",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/spell.mp3"
+  },
+  {
+    "voc": "spider",
+    "chinese": "蜘蛛",
+    "pos": "名詞",
+    "categoryE": "Animals & insects",
+    "categoryC": "動物/昆蟲",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/spider.mp3"
+  },
+  {
+    "voc": "spoon",
+    "chinese": "湯匙",
+    "pos": "名詞",
+    "categoryE": "Tableware",
+    "categoryC": "餐具",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/spoon.mp3"
+  },
+  {
+    "voc": "sport",
+    "chinese": "運動",
+    "pos": "名詞",
+    "categoryE": "\"Sports, interests & hobbies\"",
+    "categoryC": "運動/興趣/嗜好",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/sport.mp3"
+  },
+  {
+    "voc": "spring",
+    "chinese": "春天",
+    "pos": "名詞",
+    "categoryE": "Time",
+    "categoryC": "時間",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/spring.mp3"
+  },
+  {
+    "voc": "stand",
+    "chinese": "站、站立",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/stand.mp3"
+  },
+  {
+    "voc": "star",
+    "chinese": "星星",
+    "pos": "名詞",
+    "categoryE": "Weather & nature",
+    "categoryC": "天氣/自然",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/star.mp3"
+  },
+  {
+    "voc": "start",
+    "chinese": "開始",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/start.mp3"
+  },
+  {
+    "voc": "station",
+    "chinese": "車站",
+    "pos": "名詞",
+    "categoryE": "Transportation",
+    "categoryC": "運輸",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/station.mp3"
+  },
+  {
+    "voc": "still",
+    "chinese": "仍然",
+    "pos": "副詞",
+    "categoryE": "Other adverbs",
+    "categoryC": "其他副詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/still.mp3"
+  },
+  {
+    "voc": "stop",
+    "chinese": "停下來",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/stop.mp3"
+  },
+  {
+    "voc": "store",
+    "chinese": "商店 (US; 美式英語)",
+    "pos": "名詞",
+    "categoryE": "Places & directions",
+    "categoryC": "地點/方位",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/store.mp3"
+  },
+  {
+    "voc": "story",
+    "chinese": "故事",
+    "pos": "名詞",
+    "categoryE": "School",
+    "categoryC": "學校",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/story.mp3"
+  },
+  {
+    "voc": "strawberry",
+    "chinese": "草莓",
+    "pos": "名詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/strawberry.mp3"
+  },
+  {
+    "voc": "street",
+    "chinese": "街道",
+    "pos": "名詞",
+    "categoryE": "Houses & apartments",
+    "categoryC": "房子/公寓",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/street.mp3"
+  },
+  {
+    "voc": "strong",
+    "chinese": "強壯的",
+    "pos": "形容詞",
+    "categoryE": "Health",
+    "categoryC": "健康",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/strong.mp3"
+  },
+  {
+    "voc": "student",
+    "chinese": "學生",
+    "pos": "名詞",
+    "categoryE": "School",
+    "categoryC": "學校",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/student.mp3"
+  },
+  {
+    "voc": "study",
+    "chinese": "學習",
+    "pos": "動詞",
+    "categoryE": "School",
+    "categoryC": "學校",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/study.mp3"
+  },
+  {
+    "voc": "summer",
+    "chinese": "夏天",
+    "pos": "名詞",
+    "categoryE": "Time",
+    "categoryC": "時間",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/summer.mp3"
+  },
+  {
+    "voc": "sun",
+    "chinese": "太陽",
+    "pos": "名詞",
+    "categoryE": "Weather & nature",
+    "categoryC": "天氣/自然",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/sun.mp3"
+  },
+  {
+    "voc": "Sunday",
+    "chinese": "星期日",
+    "pos": "名詞",
+    "categoryE": "Time",
+    "categoryC": "時間",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/sunday.mp3"
+  },
+  {
+    "voc": "sunny",
+    "chinese": "晴朗的、出太陽的",
+    "pos": "形容詞",
+    "categoryE": "Weather & nature",
+    "categoryC": "天氣/自然",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/sunny.mp3"
+  },
+  {
+    "voc": "supermarket",
+    "chinese": "超級市場",
+    "pos": "名詞",
+    "categoryE": "Places & directions",
+    "categoryC": "地點/方位",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/supermarket.mp3"
+  },
+  {
+    "voc": "sure",
+    "chinese": "確定的",
+    "pos": "形容詞",
+    "categoryE": "Other adjectives",
+    "categoryC": "其他形容詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/sure.mp3"
+  },
+  {
+    "voc": "sweater",
+    "chinese": "毛衣",
+    "pos": "名詞",
+    "categoryE": "Clothing & accessories",
+    "categoryC": "衣服/配件",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/sweater.mp3"
+  },
+  {
+    "voc": "sweep",
+    "chinese": "掃",
+    "pos": "動詞",
+    "categoryE": "Houses & apartments",
+    "categoryC": "房子/公寓",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/sweep.mp3"
+  },
+  {
+    "voc": "sweet",
+    "chinese": "甜的",
+    "pos": "形容詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/sweet.mp3"
+  },
+  {
+    "voc": "swim",
+    "chinese": "游泳",
+    "pos": "動詞",
+    "categoryE": "\"Sports, interests & hobbies\"",
+    "categoryC": "運動/興趣/嗜好",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/swim.mp3"
+  },
+  {
+    "voc": "table",
+    "chinese": "桌子",
+    "pos": "名詞",
+    "categoryE": "Houses & apartments",
+    "categoryC": "房子/公寓",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/table.mp3"
+  },
+  {
+    "voc": "Taiwan",
+    "chinese": "臺灣",
+    "pos": "名詞",
+    "categoryE": "Places & directions",
+    "categoryC": "地點/方位",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/Taiwan.mp3"
+  },
+  {
+    "voc": "take",
+    "chinese": "攜帶、拿取",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/take.mp3"
+  },
+  {
+    "voc": "talk",
+    "chinese": "說話、談話",
+    "pos": "動詞",
+    "categoryE": "School",
+    "categoryC": "學校",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/talk.mp3"
+  },
+  {
+    "voc": "tall",
+    "chinese": "高的",
+    "pos": "形容詞",
+    "categoryE": "Personal characteristics",
+    "categoryC": "個性/特點",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/tall.mp3"
+  },
+  {
+    "voc": "taste",
+    "chinese": "嚐起來",
+    "pos": "動詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/taste.mp3"
+  },
+  {
+    "voc": "taxi",
+    "chinese": "計程車",
+    "pos": "名詞",
+    "categoryE": "Transportation",
+    "categoryC": "運輸",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/taxi.mp3"
+  },
+  {
+    "voc": "tea",
+    "chinese": "茶",
+    "pos": "名詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/tea.mp3"
+  },
+  {
+    "voc": "teacher",
+    "chinese": "老師",
+    "pos": "名詞",
+    "categoryE": "School",
+    "categoryC": "學校",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/teacher.mp3"
+  },
+  {
+    "voc": "teeth",
+    "chinese": "牙齒 (複數)",
+    "pos": "名詞",
+    "categoryE": "Parts of body",
+    "categoryC": "身體部位",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/teeth.mp3"
+  },
+  {
+    "voc": "telephone",
+    "chinese": "電話",
+    "pos": "名詞",
+    "categoryE": "Houses & apartments",
+    "categoryC": "房子/公寓",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/telephone.mp3"
+  },
+  {
+    "voc": "television",
+    "chinese": "電視 (= TV)",
+    "pos": "名詞",
+    "categoryE": "Houses & apartments",
+    "categoryC": "房子/公寓",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/television.mp3"
+  },
+  {
+    "voc": "tell",
+    "chinese": "告訴、告知",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/tell.mp3"
+  },
+  {
+    "voc": "ten",
+    "chinese": "十",
+    "pos": "數字",
+    "categoryE": "Numbers",
+    "categoryC": "數字",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/ten.mp3"
+  },
+  {
+    "voc": "test",
+    "chinese": "考試",
+    "pos": "名詞",
+    "categoryE": "School",
+    "categoryC": "學校",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/test.mp3"
+  },
+  {
+    "voc": "than",
+    "chinese": "比",
+    "pos": "介系詞",
+    "categoryE": "Prepositions",
+    "categoryC": "介系詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/than.mp3"
+  },
+  {
+    "voc": "thank",
+    "chinese": "感謝（某人）",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/thank.mp3"
+  },
+  {
+    "voc": "that",
+    "chinese": "那個",
+    "pos": "限定詞",
+    "categoryE": "Articles & determiners",
+    "categoryC": "冠詞/限定詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/that.mp3"
+  },
+  {
+    "voc": "the",
+    "chinese": "這",
+    "pos": "冠詞",
+    "categoryE": "Articles & determiners",
+    "categoryC": "冠詞/限定詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/the.mp3"
+  },
+  {
+    "voc": "their",
+    "chinese": "他們的",
+    "pos": "限定詞",
+    "categoryE": "Articles & determiners",
+    "categoryC": "冠詞/限定詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/their.mp3"
+  },
+  {
+    "voc": "them",
+    "chinese": "他們(受詞)",
+    "pos": "代名詞",
+    "categoryE": "Pronouns",
+    "categoryC": "代名詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/them.mp3"
+  },
+  {
+    "voc": "then",
+    "chinese": "然後、接著",
+    "pos": "副詞",
+    "categoryE": "Other adverbs",
+    "categoryC": "其他副詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/then.mp3"
+  },
+  {
+    "voc": "there",
+    "chinese": "那裡",
+    "pos": "副詞",
+    "categoryE": "Places & directions",
+    "categoryC": "地點/方位",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/there.mp3"
+  },
+  {
+    "voc": "these",
+    "chinese": "這些",
+    "pos": "限定詞",
+    "categoryE": "Articles & determiners",
+    "categoryC": "冠詞/限定詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/these.mp3"
+  },
+  {
+    "voc": "they",
+    "chinese": "他們",
+    "pos": "代名詞",
+    "categoryE": "Pronouns",
+    "categoryC": "代名詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/they.mp3"
+  },
+  {
+    "voc": "thin",
+    "chinese": "瘦的",
+    "pos": "形容詞",
+    "categoryE": "Personal characteristics",
+    "categoryC": "個性/特點",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/thin.mp3"
+  },
+  {
+    "voc": "thing",
+    "chinese": "東西、物",
+    "pos": "名詞",
+    "categoryE": "Other nouns",
+    "categoryC": "其他名詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/thing.mp3"
+  },
+  {
+    "voc": "third",
+    "chinese": "第三",
+    "pos": "數字",
+    "categoryE": "Numbers",
+    "categoryC": "數字",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/third.mp3"
+  },
+  {
+    "voc": "thirsty",
+    "chinese": "口渴的",
+    "pos": "形容詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/thirsty.mp3"
+  },
+  {
+    "voc": "thirteen",
+    "chinese": "十三",
+    "pos": "數字",
+    "categoryE": "Numbers",
+    "categoryC": "數字",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/thirteen.mp3"
+  },
+  {
+    "voc": "thirty",
+    "chinese": "三十",
+    "pos": "數字",
+    "categoryE": "Numbers",
+    "categoryC": "數字",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/thirty.mp3"
+  },
+  {
+    "voc": "this",
+    "chinese": "這個",
+    "pos": "限定詞",
+    "categoryE": "Articles & determiners",
+    "categoryC": "冠詞/限定詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/this.mp3"
+  },
+  {
+    "voc": "those",
+    "chinese": "那些",
+    "pos": "限定詞",
+    "categoryE": "Articles & determiners",
+    "categoryC": "冠詞/限定詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/those.mp3"
+  },
+  {
+    "voc": "three",
+    "chinese": "三",
+    "pos": "數字",
+    "categoryE": "Numbers",
+    "categoryC": "數字",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/three.mp3"
+  },
+  {
+    "voc": "Thursday",
+    "chinese": "星期四",
+    "pos": "名詞",
+    "categoryE": "Time",
+    "categoryC": "時間",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/thursday.mp3"
+  },
+  {
+    "voc": "ticket",
+    "chinese": "票",
+    "pos": "名詞",
+    "categoryE": "Other nouns",
+    "categoryC": "其他名詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/ticket.mp3"
+  },
+  {
+    "voc": "tiger",
+    "chinese": "老虎",
+    "pos": "名詞",
+    "categoryE": "Animals & insects",
+    "categoryC": "動物/昆蟲",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/tiger.mp3"
+  },
+  {
+    "voc": "time",
+    "chinese": "時間",
+    "pos": "名詞",
+    "categoryE": "Time",
+    "categoryC": "時間",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/time.mp3"
+  },
+  {
+    "voc": "tired",
+    "chinese": "疲累的",
+    "pos": "形容詞",
+    "categoryE": "Health",
+    "categoryC": "健康",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/tired.mp3"
+  },
+  {
+    "voc": "to",
+    "chinese": "向、朝、對著",
+    "pos": "介系詞",
+    "categoryE": "Prepositions",
+    "categoryC": "介系詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/to.mp3"
+  },
+  {
+    "voc": "today",
+    "chinese": "今天",
+    "pos": "名詞",
+    "categoryE": "Time",
+    "categoryC": "時間",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/today.mp3"
+  },
+  {
+    "voc": "together",
+    "chinese": "一起",
+    "pos": "副詞",
+    "categoryE": "Other adverbs",
+    "categoryC": "其他副詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/together.mp3"
+  },
+  {
+    "voc": "tomorrow",
+    "chinese": "明天",
+    "pos": "名詞",
+    "categoryE": "Time",
+    "categoryC": "時間",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/tomorrow.mp3"
+  },
+  {
+    "voc": "too",
+    "chinese": "1. 也；2. 太...",
+    "pos": "副詞",
+    "categoryE": "Other adverbs",
+    "categoryC": "其他副詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/too.mp3"
+  },
+  {
+    "voc": "tooth",
+    "chinese": "牙齒",
+    "pos": "名詞",
+    "categoryE": "Parts of body",
+    "categoryC": "身體部位",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/tooth.mp3"
+  },
+  {
+    "voc": "toothache",
+    "chinese": "牙痛",
+    "pos": "名詞",
+    "categoryE": "Health",
+    "categoryC": "健康",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/toothache.mp3",
+    "remarks": "非1200字表"
+  },
+  {
+    "voc": "touch",
+    "chinese": "觸碰",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/touch.mp3"
+  },
+  {
+    "voc": "towel",
+    "chinese": "毛巾",
+    "pos": "名詞",
+    "categoryE": "Houses & apartments",
+    "categoryC": "房子/公寓",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/towel.mp3"
+  },
+  {
+    "voc": "toy",
+    "chinese": "玩具",
+    "pos": "名詞",
+    "categoryE": "\"Sports, interests & hobbies\"",
+    "categoryC": "運動/興趣/嗜好",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/toy.mp3"
+  },
+  {
+    "voc": "train",
+    "chinese": "火車",
+    "pos": "名詞",
+    "categoryE": "Transportation",
+    "categoryC": "運輸",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/train.mp3"
+  },
+  {
+    "voc": "trash",
+    "chinese": "垃圾",
+    "pos": "名詞",
+    "categoryE": "Other nouns",
+    "categoryC": "其他名詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/trash.mp3"
+  },
+  {
+    "voc": "tree",
+    "chinese": "樹",
+    "pos": "名詞",
+    "categoryE": "Other nouns",
+    "categoryC": "其他名詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/tree.mp3"
+  },
+  {
+    "voc": "trip",
+    "chinese": "（短程的）旅行",
+    "pos": "名詞",
+    "categoryE": "\"Sports, interests & hobbies\"",
+    "categoryC": "運動/興趣/嗜好",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/trip.mp3"
+  },
+  {
+    "voc": "truck",
+    "chinese": "卡車",
+    "pos": "名詞",
+    "categoryE": "Transportation",
+    "categoryC": "運輸",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/truck.mp3"
+  },
+  {
+    "voc": "try",
+    "chinese": "嘗試",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/try.mp3"
+  },
+  {
+    "voc": "T-shirt",
+    "chinese": "T 恤",
+    "pos": "名詞",
+    "categoryE": "Clothing & accessories",
+    "categoryC": "衣服/配件",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/tee_shirt.mp3"
+  },
+  {
+    "voc": "Tuesday",
+    "chinese": "星期二",
+    "pos": "名詞",
+    "categoryE": "Time",
+    "categoryC": "時間",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/tuesday.mp3"
+  },
+  {
+    "voc": "turn",
+    "chinese": "轉彎",
+    "pos": "動詞",
+    "categoryE": "Transportation",
+    "categoryC": "運輸",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/turn.mp3"
+  },
+  {
+    "voc": "turtle",
+    "chinese": "烏龜",
+    "pos": "名詞",
+    "categoryE": "Animals & insects",
+    "categoryC": "動物/昆蟲",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/turtle.mp3"
+  },
+  {
+    "voc": "TV",
+    "chinese": "電視 (= television)",
+    "pos": "名詞",
+    "categoryE": "Houses & apartments",
+    "categoryC": "房子/公寓",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/tv.mp3"
+  },
+  {
+    "voc": "twelve",
+    "chinese": "十二",
+    "pos": "數字",
+    "categoryE": "Numbers",
+    "categoryC": "數字",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/twelve.mp3"
+  },
+  {
+    "voc": "twenty",
+    "chinese": "二十",
+    "pos": "數字",
+    "categoryE": "Numbers",
+    "categoryC": "數字",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/twenty.mp3"
+  },
+  {
+    "voc": "two",
+    "chinese": "二",
+    "pos": "數字",
+    "categoryE": "Numbers",
+    "categoryC": "數字",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/two.mp3"
+  },
+  {
+    "voc": "typhoon",
+    "chinese": "颱風",
+    "pos": "名詞",
+    "categoryE": "Weather & nature",
+    "categoryC": "天氣/自然",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/typhoon.mp3"
+  },
+  {
+    "voc": "UK",
+    "chinese": "英國",
+    "pos": "名詞",
+    "categoryE": "Places & directions",
+    "categoryC": "地點/方位",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/UK.mp3"
+  },
+  {
+    "voc": "umbrella",
+    "chinese": "傘",
+    "pos": "名詞",
+    "categoryE": "Clothing & accessories",
+    "categoryC": "衣服/配件",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/umbrella.mp3"
+  },
+  {
+    "voc": "uncle",
+    "chinese": "叔叔、舅舅、姑丈、姨丈",
+    "pos": "名詞",
+    "categoryE": "Family",
+    "categoryC": "家庭",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/uncle.mp3"
+  },
+  {
+    "voc": "under",
+    "chinese": "在...下方",
+    "pos": "介系詞",
+    "categoryE": "Prepositions",
+    "categoryC": "介系詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/under.mp3"
+  },
+  {
+    "voc": "up",
+    "chinese": "向上",
+    "pos": "介系詞",
+    "categoryE": "Prepositions",
+    "categoryC": "介系詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/up.mp3"
+  },
+  {
+    "voc": "us",
+    "chinese": "我們(受詞)",
+    "pos": "代名詞",
+    "categoryE": "Pronouns",
+    "categoryC": "代名詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/us.mp3"
+  },
+  {
+    "voc": "USA",
+    "chinese": "美國",
+    "pos": "名詞",
+    "categoryE": "Places & directions",
+    "categoryC": "地點/方位",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/USA.mp3"
+  },
+  {
+    "voc": "usually",
+    "chinese": "通常",
+    "pos": "副詞",
+    "categoryE": "Other adverbs",
+    "categoryC": "其他副詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/usually.mp3"
+  },
+  {
+    "voc": "vacation",
+    "chinese": "假期",
+    "pos": "名詞",
+    "categoryE": "School",
+    "categoryC": "學校",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/vacation.mp3"
+  },
+  {
+    "voc": "very",
+    "chinese": "非常",
+    "pos": "副詞",
+    "categoryE": "Other adverbs",
+    "categoryC": "其他副詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/very.mp3"
+  },
+  {
+    "voc": "wait",
+    "chinese": "等、等待",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/wait.mp3"
+  },
+  {
+    "voc": "waiter",
+    "chinese": "男服務生",
+    "pos": "名詞",
+    "categoryE": "Occupations",
+    "categoryC": "工作",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/waiter.mp3"
+  },
+  {
+    "voc": "waitress",
+    "chinese": "女服務生",
+    "pos": "名詞",
+    "categoryE": "Occupations",
+    "categoryC": "工作",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/waitress.mp3"
+  },
+  {
+    "voc": "wake",
+    "chinese": "醒來、喚醒",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/wake.mp3"
+  },
+  {
+    "voc": "walk",
+    "chinese": "走路",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/walk.mp3"
+  },
+  {
+    "voc": "wall",
+    "chinese": "牆壁",
+    "pos": "名詞",
+    "categoryE": "Houses & apartments",
+    "categoryC": "房子/公寓",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/wall.mp3"
+  },
+  {
+    "voc": "want",
+    "chinese": "想要",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/want.mp3"
+  },
+  {
+    "voc": "warm",
+    "chinese": "溫暖的",
+    "pos": "形容詞",
+    "categoryE": "Weather & nature",
+    "categoryC": "天氣/自然",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/warm.mp3"
+  },
+  {
+    "voc": "wash",
+    "chinese": "洗",
+    "pos": "動詞",
+    "categoryE": "Houses & apartments",
+    "categoryC": "房子/公寓",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/wash.mp3"
+  },
+  {
+    "voc": "watch",
+    "chinese": "手錶",
+    "pos": "名詞",
+    "categoryE": "Time",
+    "categoryC": "時間",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/watch.mp3"
+  },
+  {
+    "voc": "water",
+    "chinese": "水",
+    "pos": "名詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/water.mp3"
+  },
+  {
+    "voc": "watermelon",
+    "chinese": "西瓜",
+    "pos": "名詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/watermelon.mp3"
+  },
+  {
+    "voc": "way",
+    "chinese": "路、方向",
+    "pos": "名詞",
+    "categoryE": "Other nouns",
+    "categoryC": "其他名詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/way.mp3"
+  },
+  {
+    "voc": "we",
+    "chinese": "我們",
+    "pos": "代名詞",
+    "categoryE": "Pronouns",
+    "categoryC": "代名詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/we.mp3"
+  },
+  {
+    "voc": "wear",
+    "chinese": "穿、戴",
+    "pos": "動詞",
+    "categoryE": "Clothing & accessories",
+    "categoryC": "衣服/配件",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/wear.mp3"
+  },
+  {
+    "voc": "weather",
+    "chinese": "天氣",
+    "pos": "名詞",
+    "categoryE": "Weather & nature",
+    "categoryC": "天氣/自然",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/weather.mp3"
+  },
+  {
+    "voc": "Wednesday",
+    "chinese": "星期三",
+    "pos": "名詞",
+    "categoryE": "Time",
+    "categoryC": "時間",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/wednesday.mp3"
+  },
+  {
+    "voc": "week",
+    "chinese": "星期",
+    "pos": "名詞",
+    "categoryE": "Time",
+    "categoryC": "時間",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/week.mp3"
+  },
+  {
+    "voc": "welcome",
+    "chinese": "歡迎",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/welcome.mp3"
+  },
+  {
+    "voc": "well",
+    "chinese": "好的, 健康地",
+    "pos": "形容詞, 副詞",
+    "categoryE": "Health",
+    "categoryC": "健康",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/well.mp3"
+  },
+  {
+    "voc": "wet",
+    "chinese": "潮濕的",
+    "pos": "形容詞",
+    "categoryE": "Weather & nature",
+    "categoryC": "天氣/自然",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/wet.mp3"
+  },
+  {
+    "voc": "whale",
+    "chinese": "鯨魚",
+    "pos": "名詞",
+    "categoryE": "Animals & insects",
+    "categoryC": "動物/昆蟲",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/whale.mp3"
+  },
+  {
+    "voc": "what",
+    "chinese": "什麼...",
+    "pos": "代名詞",
+    "categoryE": "Wh-words",
+    "categoryC": "疑問詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/what.mp3"
+  },
+  {
+    "voc": "when",
+    "chinese": "何時...",
+    "pos": "副詞",
+    "categoryE": "Wh-words",
+    "categoryC": "疑問詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/when.mp3"
+  },
+  {
+    "voc": "where",
+    "chinese": "在哪裡...",
+    "pos": "副詞",
+    "categoryE": "Wh-words",
+    "categoryC": "疑問詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/where.mp3"
+  },
+  {
+    "voc": "which",
+    "chinese": "哪一個...",
+    "pos": "限定詞",
+    "categoryE": "Wh-words",
+    "categoryC": "疑問詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/which.mp3"
+  },
+  {
+    "voc": "white",
+    "chinese": "白色的",
+    "pos": "形容詞",
+    "categoryE": "Colors",
+    "categoryC": "顏色",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/white.mp3"
+  },
+  {
+    "voc": "who",
+    "chinese": "誰...",
+    "pos": "代名詞",
+    "categoryE": "Wh-words",
+    "categoryC": "疑問詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/who.mp3"
+  },
+  {
+    "voc": "whose",
+    "chinese": "誰的...",
+    "pos": "限定詞",
+    "categoryE": "Wh-words",
+    "categoryC": "疑問詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/whose.mp3"
+  },
+  {
+    "voc": "why",
+    "chinese": "為什麼...",
+    "pos": "副詞",
+    "categoryE": "Wh-words",
+    "categoryC": "疑問詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/why.mp3"
+  },
+  {
+    "voc": "will",
+    "chinese": "將會",
+    "pos": "助動詞",
+    "categoryE": "Be & auxiliaries",
+    "categoryC": "be動詞/助動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/will.mp3"
+  },
+  {
+    "voc": "win",
+    "chinese": "贏",
+    "pos": "動詞",
+    "categoryE": "\"Sports, interests & hobbies\"",
+    "categoryC": "運動/興趣/嗜好",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/win.mp3"
+  },
+  {
+    "voc": "wind",
+    "chinese": "風",
+    "pos": "名詞",
+    "categoryE": "Weather & nature",
+    "categoryC": "天氣/自然",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/wind.mp3"
+  },
+  {
+    "voc": "window",
+    "chinese": "窗戶",
+    "pos": "名詞",
+    "categoryE": "Houses & apartments",
+    "categoryC": "房子/公寓",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/window.mp3"
+  },
+  {
+    "voc": "windy",
+    "chinese": "風大的",
+    "pos": "形容詞",
+    "categoryE": "Weather & nature",
+    "categoryC": "天氣/自然",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/windy.mp3"
+  },
+  {
+    "voc": "winter",
+    "chinese": "冬天",
+    "pos": "名詞",
+    "categoryE": "Time",
+    "categoryC": "時間",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/winter.mp3"
+  },
+  {
+    "voc": "with",
+    "chinese": "和...一起",
+    "pos": "介系詞",
+    "categoryE": "Prepositions",
+    "categoryC": "介系詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/with.mp3"
+  },
+  {
+    "voc": "woman",
+    "chinese": "女人",
+    "pos": "名詞",
+    "categoryE": "People",
+    "categoryC": "人",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/woman.mp3"
+  },
+  {
+    "voc": "women",
+    "chinese": "女人 (複數)",
+    "pos": "名詞",
+    "categoryE": "People",
+    "categoryC": "人",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/women.mp3"
+  },
+  {
+    "voc": "wonderful",
+    "chinese": "很棒的、精彩的",
+    "pos": "形容詞",
+    "categoryE": "Other adjectives",
+    "categoryC": "其他形容詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/wonderful.mp3"
+  },
+  {
+    "voc": "word",
+    "chinese": "字",
+    "pos": "名詞",
+    "categoryE": "Other nouns",
+    "categoryC": "其他名詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/word.mp3"
+  },
+  {
+    "voc": "work",
+    "chinese": "工作",
+    "pos": "名詞",
+    "categoryE": "Occupations",
+    "categoryC": "工作",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/work.mp3"
+  },
+  {
+    "voc": "worker",
+    "chinese": "工作者",
+    "pos": "名詞",
+    "categoryE": "Occupations",
+    "categoryC": "工作",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/worker.mp3"
+  },
+  {
+    "voc": "worry",
+    "chinese": "擔心",
+    "pos": "動詞",
+    "categoryE": "Other verbs",
+    "categoryC": "其他動詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/worry.mp3"
+  },
+  {
+    "voc": "write",
+    "chinese": "寫",
+    "pos": "動詞",
+    "categoryE": "School",
+    "categoryC": "學校",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/write.mp3"
+  },
+  {
+    "voc": "year",
+    "chinese": "年",
+    "pos": "名詞",
+    "categoryE": "Time",
+    "categoryC": "時間",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/year.mp3"
+  },
+  {
+    "voc": "yellow",
+    "chinese": "黃色的",
+    "pos": "形容詞",
+    "categoryE": "Colors",
+    "categoryC": "顏色",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/yellow.mp3"
+  },
+  {
+    "voc": "yes",
+    "chinese": "是",
+    "pos": "副詞",
+    "categoryE": "Other adverbs",
+    "categoryC": "其他副詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/yes.mp3"
+  },
+  {
+    "voc": "yesterday",
+    "chinese": "昨天",
+    "pos": "名詞",
+    "categoryE": "Time",
+    "categoryC": "時間",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/yesterday.mp3"
+  },
+  {
+    "voc": "you",
+    "chinese": "你；你們",
+    "pos": "代名詞",
+    "categoryE": "Pronouns",
+    "categoryC": "代名詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/you.mp3"
+  },
+  {
+    "voc": "young",
+    "chinese": "年輕的",
+    "pos": "形容詞",
+    "categoryE": "Personal characteristics",
+    "categoryC": "個性/特點",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/young.mp3"
+  },
+  {
+    "voc": "your",
+    "chinese": "你的、你們的",
+    "pos": "限定詞",
+    "categoryE": "Articles & determiners",
+    "categoryC": "冠詞/限定詞",
+    "categoryType": "2",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/your.mp3"
+  },
+  {
+    "voc": "yo-yo",
+    "chinese": "溜溜球",
+    "pos": "名詞",
+    "categoryE": "Sports, interests & hobbies",
+    "categoryC": "運動/興趣/嗜好",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/yo_yo.mp3"
+  },
+  {
+    "voc": "yummy",
+    "chinese": "好吃的、美味的",
+    "pos": "形容詞",
+    "categoryE": "Food & drink",
+    "categoryC": "食物/飲料",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/yummy.mp3"
+  },
+  {
+    "voc": "zebra",
+    "chinese": "斑馬",
+    "pos": "名詞",
+    "categoryE": "Animals & insects",
+    "categoryC": "動物/昆蟲",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/zebra.mp3"
+  },
+  {
+    "voc": "zero",
+    "chinese": "零",
+    "pos": "數字",
+    "categoryE": "Numbers",
+    "categoryC": "數字",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/zero.mp3"
+  },
+  {
+    "voc": "zoo",
+    "chinese": "動物園",
+    "pos": "名詞",
+    "categoryE": "Places & directions",
+    "categoryC": "地點/方位",
+    "categoryType": "1",
+    "audioUrl": "https://lttcblob.blob.core.windows.net/kidsgeptwordlistmp3/zoo.mp3"
+  }
+]

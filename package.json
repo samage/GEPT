@@ -20,7 +20,8 @@
     "gen:images": "tsx scripts/gen-images.ts",
     "gen:audio": "tsx scripts/gen-audio.ts",
     "gen:questions": "tsx scripts/gen-questions.ts",
-    "csv:words": "tsx scripts/csv-to-words.ts"
+    "csv:words": "tsx scripts/csv-to-words.ts",
+    "import:geptkids": "tsx scripts/import-geptkids.ts"
   },
   "prisma": {
     "seed": "tsx prisma/seed.ts"

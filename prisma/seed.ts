@@ -68,6 +68,8 @@ async function main() {
         imageUrl: w.imageUrl,
         audioUrl: w.audioUrl,
         weekNo: w.weekNo,
+        chinese: w.chinese,
+        pos: w.pos,
         categoryId,
       },
       create: {
@@ -78,6 +80,8 @@ async function main() {
         imageUrl: w.imageUrl,
         audioUrl: w.audioUrl,
         weekNo: w.weekNo,
+        chinese: w.chinese,
+        pos: w.pos,
         categoryId,
       },
     });
