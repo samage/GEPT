@@ -1,0 +1,420 @@
+[
+  {
+    "type": "LISTENING_IMAGE",
+    "level": "KIDS",
+    "weekNo": 1,
+    "questionText": "Listen and choose the picture: banana",
+    "options": [
+      {
+        "label": "banana",
+        "emoji": "🍌"
+      },
+      {
+        "label": "apple",
+        "emoji": "🍎"
+      },
+      {
+        "label": "elephant",
+        "emoji": "🐘"
+      }
+    ],
+    "correctAnswer": "banana",
+    "explanation": "banana 是香蕉，黃色的喔！"
+  },
+  {
+    "type": "LISTENING_IMAGE",
+    "level": "KIDS",
+    "weekNo": 3,
+    "questionText": "Listen and choose the picture: umbrella",
+    "options": [
+      {
+        "label": "umbrella",
+        "emoji": "☂️"
+      },
+      {
+        "label": "computer",
+        "emoji": "💻"
+      },
+      {
+        "label": "teacher",
+        "emoji": "👩‍🏫"
+      }
+    ],
+    "correctAnswer": "umbrella",
+    "explanation": "umbrella 是雨傘，下雨天要帶喔！"
+  },
+  {
+    "type": "LISTENING_TF",
+    "level": "KIDS",
+    "weekNo": 2,
+    "questionText": "The elephant is big.",
+    "options": [
+      "🐘"
+    ],
+    "correctAnswer": "Y",
+    "explanation": "圖片是大象，句子也說大象很大，所以相同。"
+  },
+  {
+    "type": "READING_TF",
+    "level": "KIDS",
+    "weekNo": 1,
+    "questionText": "The banana is red.",
+    "options": [
+      "🍌"
+    ],
+    "correctAnswer": "N",
+    "explanation": "香蕉是黃色的，不是紅色，所以不同。"
+  },
+  {
+    "type": "READING_TF",
+    "level": "KIDS",
+    "weekNo": 4,
+    "questionText": "The teacher is in the classroom.",
+    "options": [
+      "👩‍🏫"
+    ],
+    "correctAnswer": "Y",
+    "explanation": "圖片是老師，句子也說老師在教室，相同。"
+  },
+  {
+    "type": "MATCHING",
+    "level": "KIDS",
+    "weekNo": 5,
+    "questionText": "把單字和圖片配對起來",
+    "options": [
+      {
+        "left": "banana",
+        "right": "🍌"
+      },
+      {
+        "left": "umbrella",
+        "right": "☂️"
+      },
+      {
+        "left": "computer",
+        "right": "💻"
+      }
+    ],
+    "correctAnswer": "{\"banana\":\"🍌\",\"umbrella\":\"☂️\",\"computer\":\"💻\"}",
+    "explanation": "每個單字都有對應的圖片喔！"
+  },
+  {
+    "type": "MULTIPLE_CHOICE",
+    "level": "KIDS",
+    "weekNo": 9,
+    "questionText": "He _____ to school every day.",
+    "options": [
+      "go",
+      "goes",
+      "went"
+    ],
+    "correctAnswer": "goes",
+    "explanation": "主詞是 He，現在式動詞要加 s，所以是 goes。"
+  },
+  {
+    "type": "MULTIPLE_CHOICE",
+    "level": "KIDS",
+    "weekNo": 11,
+    "questionText": "Look! The baby _____ now.",
+    "options": [
+      "sleep",
+      "sleeps",
+      "is sleeping"
+    ],
+    "correctAnswer": "is sleeping",
+    "explanation": "Look! 表示現在正在發生，用現在進行式 is sleeping。"
+  },
+  {
+    "type": "SPELLING",
+    "level": "KIDS",
+    "weekNo": 5,
+    "questionText": "看圖拼出單字 ☂️",
+    "options": [
+      "u",
+      "m",
+      "b",
+      "r",
+      "e",
+      "l",
+      "l",
+      "a"
+    ],
+    "correctAnswer": "umbrella",
+    "explanation": "umbrella 共有 8 個字母。"
+  },
+  {
+    "type": "SPELLING",
+    "level": "KIDS",
+    "weekNo": 6,
+    "questionText": "看圖拼出單字 💻",
+    "options": [
+      "c",
+      "o",
+      "m",
+      "p",
+      "u",
+      "t",
+      "e",
+      "r"
+    ],
+    "correctAnswer": "computer",
+    "explanation": "computer 是電腦。"
+  },
+  {
+    "type": "WRITING_CLOZE",
+    "level": "KIDS",
+    "weekNo": 9,
+    "questionText": "Today I went to the train _____ with my mom.",
+    "options": [
+      "station",
+      "kitchen",
+      "garden"
+    ],
+    "correctAnswer": "station",
+    "explanation": "搭火車要去火車站 station。"
+  },
+  {
+    "type": "WRITING_CLOZE",
+    "level": "KIDS",
+    "weekNo": 12,
+    "questionText": "My _____ teaches us English at school.",
+    "options": [
+      "teacher",
+      "doctor",
+      "farmer"
+    ],
+    "correctAnswer": "teacher",
+    "explanation": "在學校教英文的是老師 teacher。"
+  },
+  {
+    "type": "SHORT_ANSWER",
+    "level": "KIDS",
+    "weekNo": 15,
+    "questionText": "Q: What color is a banana?",
+    "options": [],
+    "correctAnswer": "yellow",
+    "explanation": "香蕉是黃色的，yellow。"
+  },
+  {
+    "type": "WRITING_REORDER",
+    "level": "KIDS",
+    "weekNo": 15,
+    "questionText": "把單字排成正確的句子（中文意思：我喜歡香蕉）",
+    "options": [
+      "banana",
+      "I",
+      "a",
+      "like"
+    ],
+    "correctAnswer": "I like a banana",
+    "explanation": "正確順序：I like a banana."
+  },
+  {
+    "type": "WRITING_REORDER",
+    "level": "BEGINNER",
+    "weekNo": 16,
+    "questionText": "把單字排成正確的句子（中文意思：老師很親切）",
+    "options": [
+      "is",
+      "My",
+      "kind",
+      "teacher"
+    ],
+    "correctAnswer": "My teacher is kind",
+    "explanation": "正確順序：My teacher is kind."
+  },
+  {
+    "type": "SPEAKING_READ_ALOUD",
+    "level": "KIDS",
+    "weekNo": 17,
+    "questionText": "請大聲朗讀：My teacher is very kind.",
+    "options": [],
+    "correctAnswer": "My teacher is very kind.",
+    "explanation": "念清楚每個字，注意 teacher 的重音在 ea。"
+  },
+  {
+    "type": "SPEAKING_PICTURE",
+    "level": "KIDS",
+    "weekNo": 18,
+    "questionText": "看圖說故事：用一句話描述這張圖片",
+    "options": [
+      "🐘"
+    ],
+    "correctAnswer": "",
+    "explanation": "可以說：This is a big elephant."
+  },
+  {
+    "type": "SPELLING",
+    "level": "KIDS",
+    "weekNo": 1,
+    "questionText": "根據提示拼出單字 /bəˈnænə/",
+    "options": [
+      "b",
+      "a",
+      "n",
+      "a",
+      "n",
+      "a"
+    ],
+    "correctAnswer": "banana",
+    "explanation": "正確拼法：banana"
+  },
+  {
+    "type": "SPELLING",
+    "level": "KIDS",
+    "weekNo": 9,
+    "questionText": "根據提示拼出單字 /ˈsteɪʃən/",
+    "options": [
+      "s",
+      "t",
+      "a",
+      "t",
+      "i",
+      "o",
+      "n"
+    ],
+    "correctAnswer": "station",
+    "explanation": "正確拼法：station"
+  },
+  {
+    "type": "SPELLING",
+    "level": "KIDS",
+    "weekNo": 5,
+    "questionText": "根據提示拼出單字 /ˈtiːtʃər/",
+    "options": [
+      "t",
+      "e",
+      "a",
+      "c",
+      "h",
+      "e",
+      "r"
+    ],
+    "correctAnswer": "teacher",
+    "explanation": "正確拼法：teacher"
+  },
+  {
+    "type": "SPELLING",
+    "level": "KIDS",
+    "weekNo": 2,
+    "questionText": "根據提示拼出單字 /ˈɛlɪfənt/",
+    "options": [
+      "e",
+      "l",
+      "e",
+      "p",
+      "h",
+      "a",
+      "n",
+      "t"
+    ],
+    "correctAnswer": "elephant",
+    "explanation": "正確拼法：elephant"
+  },
+  {
+    "type": "SPELLING",
+    "level": "KIDS",
+    "weekNo": 6,
+    "questionText": "根據提示拼出單字 /kəmˈpjuːtər/",
+    "options": [
+      "c",
+      "o",
+      "m",
+      "p",
+      "u",
+      "t",
+      "e",
+      "r"
+    ],
+    "correctAnswer": "computer",
+    "explanation": "正確拼法：computer"
+  },
+  {
+    "type": "SPELLING",
+    "level": "KIDS",
+    "weekNo": 3,
+    "questionText": "根據提示拼出單字 /ʌmˈbrɛlə/",
+    "options": [
+      "u",
+      "m",
+      "b",
+      "r",
+      "e",
+      "l",
+      "l",
+      "a"
+    ],
+    "correctAnswer": "umbrella",
+    "explanation": "正確拼法：umbrella"
+  },
+  {
+    "type": "WRITING_REORDER",
+    "level": "KIDS",
+    "weekNo": 1,
+    "questionText": "把單字排成正確的句子",
+    "options": [
+      "I",
+      "like",
+      "to",
+      "eat",
+      "a",
+      "banana"
+    ],
+    "correctAnswer": "I like to eat a banana",
+    "explanation": "正確句子：I like to eat a banana"
+  },
+  {
+    "type": "SPEAKING_READ_ALOUD",
+    "level": "KIDS",
+    "weekNo": 1,
+    "questionText": "請大聲朗讀：I like to eat a banana.",
+    "options": [],
+    "correctAnswer": "I like to eat a banana.",
+    "explanation": "念清楚每個字，注意單字重音。"
+  },
+  {
+    "type": "SPEAKING_READ_ALOUD",
+    "level": "KIDS",
+    "weekNo": 1,
+    "questionText": "請大聲朗讀：The banana is yellow.",
+    "options": [],
+    "correctAnswer": "The banana is yellow.",
+    "explanation": "念清楚每個字，注意單字重音。"
+  },
+  {
+    "type": "SPEAKING_READ_ALOUD",
+    "level": "KIDS",
+    "weekNo": 9,
+    "questionText": "請大聲朗讀：We wait at the train station.",
+    "options": [],
+    "correctAnswer": "We wait at the train station.",
+    "explanation": "念清楚每個字，注意單字重音。"
+  },
+  {
+    "type": "SPEAKING_READ_ALOUD",
+    "level": "KIDS",
+    "weekNo": 2,
+    "questionText": "請大聲朗讀：The elephant is big and gray.",
+    "options": [],
+    "correctAnswer": "The elephant is big and gray.",
+    "explanation": "念清楚每個字，注意單字重音。"
+  },
+  {
+    "type": "SPEAKING_READ_ALOUD",
+    "level": "KIDS",
+    "weekNo": 6,
+    "questionText": "請大聲朗讀：I play games on the computer.",
+    "options": [],
+    "correctAnswer": "I play games on the computer.",
+    "explanation": "念清楚每個字，注意單字重音。"
+  },
+  {
+    "type": "SPEAKING_READ_ALOUD",
+    "level": "KIDS",
+    "weekNo": 3,
+    "questionText": "請大聲朗讀：Take an umbrella when it rains.",
+    "options": [],
+    "correctAnswer": "Take an umbrella when it rains.",
+    "explanation": "念清楚每個字，注意單字重音。"
+  }
+]

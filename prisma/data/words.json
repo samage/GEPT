@@ -1,0 +1,190 @@
+[
+  {
+    "text": "banana",
+    "ipa": "bəˈnænə",
+    "category": "SHORT_VOWELS",
+    "phonemeMapping": [
+      {
+        "text": "ba",
+        "phoneme": "bə",
+        "isStressed": false
+      },
+      {
+        "text": "na",
+        "phoneme": "næ",
+        "isStressed": true
+      },
+      {
+        "text": "na",
+        "phoneme": "nə",
+        "isStressed": false
+      }
+    ],
+    "sentences": [
+      {
+        "text": "I like to eat a banana.",
+        "reviewed": true
+      },
+      {
+        "text": "The banana is yellow.",
+        "reviewed": true
+      }
+    ],
+    "weekNo": 1
+  },
+  {
+    "text": "station",
+    "ipa": "ˈsteɪʃən",
+    "category": "SPECIAL_RULES",
+    "phonemeMapping": [
+      {
+        "text": "st",
+        "phoneme": "st",
+        "isStressed": false
+      },
+      {
+        "text": "a",
+        "phoneme": "eɪ",
+        "isStressed": true
+      },
+      {
+        "text": "tion",
+        "phoneme": "ʃən",
+        "isStressed": false
+      }
+    ],
+    "sentences": [
+      {
+        "text": "We wait at the train station.",
+        "reviewed": true
+      }
+    ],
+    "weekNo": 9
+  },
+  {
+    "text": "teacher",
+    "ipa": "ˈtiːtʃər",
+    "category": "LONG_VOWELS",
+    "phonemeMapping": [
+      {
+        "text": "t",
+        "phoneme": "t",
+        "isStressed": false
+      },
+      {
+        "text": "ea",
+        "phoneme": "iː",
+        "isStressed": true
+      },
+      {
+        "text": "ch",
+        "phoneme": "tʃ",
+        "isStressed": false
+      },
+      {
+        "text": "er",
+        "phoneme": "ər",
+        "isStressed": false
+      }
+    ],
+    "sentences": [
+      {
+        "text": "My teacher is very kind.",
+        "reviewed": true
+      }
+    ],
+    "weekNo": 5
+  },
+  {
+    "text": "elephant",
+    "ipa": "ˈɛlɪfənt",
+    "category": "SHORT_VOWELS",
+    "phonemeMapping": [
+      {
+        "text": "e",
+        "phoneme": "ɛ",
+        "isStressed": true
+      },
+      {
+        "text": "le",
+        "phoneme": "lɪ",
+        "isStressed": false
+      },
+      {
+        "text": "ph",
+        "phoneme": "f",
+        "isStressed": false
+      },
+      {
+        "text": "ant",
+        "phoneme": "ənt",
+        "isStressed": false
+      }
+    ],
+    "sentences": [
+      {
+        "text": "The elephant is big and gray.",
+        "reviewed": true
+      }
+    ],
+    "weekNo": 2
+  },
+  {
+    "text": "computer",
+    "ipa": "kəmˈpjuːtər",
+    "category": "LONG_VOWELS",
+    "phonemeMapping": [
+      {
+        "text": "com",
+        "phoneme": "kəm",
+        "isStressed": false
+      },
+      {
+        "text": "pu",
+        "phoneme": "pjuː",
+        "isStressed": true
+      },
+      {
+        "text": "ter",
+        "phoneme": "tər",
+        "isStressed": false
+      }
+    ],
+    "sentences": [
+      {
+        "text": "I play games on the computer.",
+        "reviewed": true
+      }
+    ],
+    "weekNo": 6
+  },
+  {
+    "text": "umbrella",
+    "ipa": "ʌmˈbrɛlə",
+    "category": "SHORT_VOWELS",
+    "phonemeMapping": [
+      {
+        "text": "um",
+        "phoneme": "ʌm",
+        "isStressed": false
+      },
+      {
+        "text": "bre",
+        "phoneme": "brɛ",
+        "isStressed": true
+      },
+      {
+        "text": "lla",
+        "phoneme": "lə",
+        "isStressed": false
+      }
+    ],
+    "sentences": [
+      {
+        "text": "Take an umbrella when it rains.",
+        "reviewed": true
+      }
+    ],
+    "weekNo": 3
+  }
+]

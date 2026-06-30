@@ -1,0 +1,11 @@
+{
+  "_comment": "不規則字的人工切片覆蓋表：key 為小寫單字，value 為 phonemeMapping 積木陣列。slicer 會優先採用這裡的切片。",
+  "one": [
+    { "text": "o", "phoneme": "w", "isStressed": false },
+    { "text": "ne", "phoneme": "ʌn", "isStressed": true }
+  ],
+  "two": [
+    { "text": "tw", "phoneme": "t", "isStressed": false },
+    { "text": "o", "phoneme": "uː", "isStressed": true }
+  ]
+}

@@ -1,0 +1,37 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      # CI 僅做 generate / typecheck / build，不連線真實資料庫
+      DATABASE_URL: postgresql://user:pass@localhost:5432/ci?schema=public
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Prisma generate
+        run: npx prisma generate
+
+      - name: Type check
+        run: npm run typecheck
+
+      - name: Content validate
+        run: npm run content:validate
+
+      - name: Build
+        run: npm run build

@@ -1,0 +1,205 @@
+[
+  {
+    "weekNo": 1,
+    "title": "第 1 週：短母音 a / 水果家族",
+    "theme": "SHORT_VOWELS",
+    "categories": ["SHORT_VOWELS"],
+    "tasks": [
+      { "skill": "LISTENING", "title": "聽音選圖暖身", "targetCount": 5, "types": ["LISTENING_IMAGE"] },
+      { "skill": "READING", "title": "看圖是非題", "targetCount": 5, "types": ["READING_TF"] }
+    ]
+  },
+  {
+    "weekNo": 2,
+    "title": "第 2 週：短母音 e / 動物朋友",
+    "theme": "SHORT_VOWELS",
+    "categories": ["SHORT_VOWELS"],
+    "tasks": [
+      { "skill": "LISTENING", "title": "聽音是非題", "targetCount": 5, "types": ["LISTENING_TF"] },
+      { "skill": "READING", "title": "看圖是非題", "targetCount": 5, "types": ["READING_TF"] }
+    ]
+  },
+  {
+    "weekNo": 3,
+    "title": "第 3 週：短母音 i / u 天氣",
+    "theme": "SHORT_VOWELS",
+    "categories": ["SHORT_VOWELS"],
+    "tasks": [
+      { "skill": "LISTENING", "title": "聽音選圖", "targetCount": 6, "types": ["LISTENING_IMAGE"] },
+      { "skill": "SPEAKING", "title": "跟讀單字", "targetCount": 3, "types": ["SPEAKING_READ_ALOUD"] }
+    ]
+  },
+  {
+    "weekNo": 4,
+    "title": "第 4 週：短母音複習關卡",
+    "theme": "SHORT_VOWELS",
+    "categories": ["SHORT_VOWELS"],
+    "tasks": [
+      { "skill": "LISTENING", "title": "綜合聽力", "targetCount": 6, "types": ["LISTENING_IMAGE", "LISTENING_TF"] },
+      { "skill": "READING", "title": "綜合閱讀", "targetCount": 6, "types": ["READING_TF"] }
+    ]
+  },
+  {
+    "weekNo": 5,
+    "title": "第 5 週：長母音 ea / ee 校園",
+    "theme": "LONG_VOWELS",
+    "categories": ["LONG_VOWELS"],
+    "tasks": [
+      { "skill": "READING", "title": "配合題", "targetCount": 5, "types": ["MATCHING"] },
+      { "skill": "WRITING", "title": "聽音拼字", "targetCount": 5, "types": ["SPELLING"] }
+    ]
+  },
+  {
+    "weekNo": 6,
+    "title": "第 6 週：長母音 oo / ue 科技",
+    "theme": "LONG_VOWELS",
+    "categories": ["LONG_VOWELS"],
+    "tasks": [
+      { "skill": "WRITING", "title": "看圖拼字", "targetCount": 5, "types": ["SPELLING"] },
+      { "skill": "SPEAKING", "title": "跟讀單字", "targetCount": 3, "types": ["SPEAKING_READ_ALOUD"] }
+    ]
+  },
+  {
+    "weekNo": 7,
+    "title": "第 7 週：子音群 bl / st / tr",
+    "theme": "LONG_VOWELS",
+    "categories": ["LONG_VOWELS"],
+    "tasks": [
+      { "skill": "READING", "title": "配合題", "targetCount": 5, "types": ["MATCHING"] },
+      { "skill": "LISTENING", "title": "聽音選圖", "targetCount": 5, "types": ["LISTENING_IMAGE"] }
+    ]
+  },
+  {
+    "weekNo": 8,
+    "title": "第 8 週：長母音複習關卡",
+    "theme": "LONG_VOWELS",
+    "categories": ["LONG_VOWELS"],
+    "tasks": [
+      { "skill": "WRITING", "title": "拼字挑戰", "targetCount": 6, "types": ["SPELLING"] },
+      { "skill": "READING", "title": "配合題挑戰", "targetCount": 6, "types": ["MATCHING"] }
+    ]
+  },
+  {
+    "weekNo": 9,
+    "title": "第 9 週：金牌字尾 -tion",
+    "theme": "SPECIAL_RULES",
+    "categories": ["SPECIAL_RULES"],
+    "tasks": [
+      { "skill": "READING", "title": "文法選擇", "targetCount": 5, "types": ["MULTIPLE_CHOICE"] },
+      { "skill": "WRITING", "title": "日記填空", "targetCount": 5, "types": ["WRITING_CLOZE"] }
+    ]
+  },
+  {
+    "weekNo": 10,
+    "title": "第 10 週：金牌字尾 -ture",
+    "theme": "SPECIAL_RULES",
+    "categories": ["SPECIAL_RULES"],
+    "tasks": [
+      { "skill": "READING", "title": "語意選擇", "targetCount": 5, "types": ["MULTIPLE_CHOICE"] },
+      { "skill": "WRITING", "title": "日記填空", "targetCount": 5, "types": ["WRITING_CLOZE"] }
+    ]
+  },
+  {
+    "weekNo": 11,
+    "title": "第 11 週：金牌字尾 -ing",
+    "theme": "SPECIAL_RULES",
+    "categories": ["SPECIAL_RULES"],
+    "tasks": [
+      { "skill": "READING", "title": "文法選擇", "targetCount": 6, "types": ["MULTIPLE_CHOICE"] },
+      { "skill": "LISTENING", "title": "聽音是非題", "targetCount": 5, "types": ["LISTENING_TF"] }
+    ]
+  },
+  {
+    "weekNo": 12,
+    "title": "第 12 週：日常對話",
+    "theme": "SPECIAL_RULES",
+    "categories": ["SPECIAL_RULES"],
+    "tasks": [
+      { "skill": "WRITING", "title": "日記填空", "targetCount": 6, "types": ["WRITING_CLOZE"] },
+      { "skill": "READING", "title": "綜合選擇", "targetCount": 6, "types": ["MULTIPLE_CHOICE"] }
+    ]
+  },
+  {
+    "weekNo": 13,
+    "title": "第 13 週：時間與數字",
+    "theme": "SPECIAL_RULES",
+    "categories": ["SPECIAL_RULES"],
+    "tasks": [
+      { "skill": "READING", "title": "語意選擇", "targetCount": 6, "types": ["MULTIPLE_CHOICE"] },
+      { "skill": "WRITING", "title": "日記填空", "targetCount": 5, "types": ["WRITING_CLOZE"] }
+    ]
+  },
+  {
+    "weekNo": 14,
+    "title": "第 14 週：特殊規則複習關卡",
+    "theme": "SPECIAL_RULES",
+    "categories": ["SPECIAL_RULES"],
+    "tasks": [
+      { "skill": "READING", "title": "綜合閱讀挑戰", "targetCount": 8, "types": ["MULTIPLE_CHOICE", "MATCHING"] },
+      { "skill": "WRITING", "title": "綜合寫作挑戰", "targetCount": 6, "types": ["WRITING_CLOZE", "SPELLING"] }
+    ]
+  },
+  {
+    "weekNo": 15,
+    "title": "第 15 週：句子重組入門",
+    "theme": "WRITING",
+    "categories": ["SHORT_VOWELS", "LONG_VOWELS"],
+    "tasks": [
+      { "skill": "WRITING", "title": "句子重組", "targetCount": 5, "types": ["WRITING_REORDER"] },
+      { "skill": "WRITING", "title": "短句問答", "targetCount": 5, "types": ["SHORT_ANSWER"] }
+    ]
+  },
+  {
+    "weekNo": 16,
+    "title": "第 16 週：句子重組進階",
+    "theme": "WRITING",
+    "categories": ["SPECIAL_RULES"],
+    "tasks": [
+      { "skill": "WRITING", "title": "句子重組", "targetCount": 6, "types": ["WRITING_REORDER"] },
+      { "skill": "SPEAKING", "title": "看圖說故事", "targetCount": 3, "types": ["SPEAKING_PICTURE"] }
+    ]
+  },
+  {
+    "weekNo": 17,
+    "title": "第 17 週：朗讀與問答",
+    "theme": "SPEAKING",
+    "categories": ["LONG_VOWELS"],
+    "tasks": [
+      { "skill": "SPEAKING", "title": "朗讀短句", "targetCount": 4, "types": ["SPEAKING_READ_ALOUD"] },
+      { "skill": "WRITING", "title": "短句問答", "targetCount": 5, "types": ["SHORT_ANSWER"] }
+    ]
+  },
+  {
+    "weekNo": 18,
+    "title": "第 18 週：看圖說故事",
+    "theme": "SPEAKING",
+    "categories": ["SHORT_VOWELS"],
+    "tasks": [
+      { "skill": "SPEAKING", "title": "看圖說故事", "targetCount": 4, "types": ["SPEAKING_PICTURE"] },
+      { "skill": "WRITING", "title": "句子重組", "targetCount": 5, "types": ["WRITING_REORDER"] }
+    ]
+  },
+  {
+    "weekNo": 19,
+    "title": "第 19 週：全真模擬測驗 (一)",
+    "theme": "MOCK",
+    "categories": ["SHORT_VOWELS", "LONG_VOWELS", "SPECIAL_RULES"],
+    "tasks": [
+      { "skill": "LISTENING", "title": "模擬聽力", "targetCount": 6, "types": ["LISTENING_IMAGE", "LISTENING_TF"] },
+      { "skill": "READING", "title": "模擬閱讀", "targetCount": 6, "types": ["READING_TF", "MULTIPLE_CHOICE", "MATCHING"] },
+      { "skill": "WRITING", "title": "模擬寫作", "targetCount": 4, "types": ["WRITING_CLOZE", "WRITING_REORDER"] }
+    ]
+  },
+  {
+    "weekNo": 20,
+    "title": "第 20 週：全真模擬測驗 (二) + 弱項補強",
+    "theme": "MOCK",
+    "categories": ["SHORT_VOWELS", "LONG_VOWELS", "SPECIAL_RULES"],
+    "tasks": [
+      { "skill": "LISTENING", "title": "模擬聽力", "targetCount": 6, "types": ["LISTENING_IMAGE", "LISTENING_TF"] },
+      { "skill": "READING", "title": "模擬閱讀", "targetCount": 6, "types": ["READING_TF", "MULTIPLE_CHOICE"] },
+      { "skill": "WRITING", "title": "模擬寫作", "targetCount": 4, "types": ["SHORT_ANSWER", "WRITING_REORDER"] },
+      { "skill": "SPEAKING", "title": "模擬口說", "targetCount": 3, "types": ["SPEAKING_READ_ALOUD", "SPEAKING_PICTURE"] }
+    ]
+  }
+]

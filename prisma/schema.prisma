@@ -1,0 +1,196 @@
+// GEPT Kids 全功能英檢 App 資料庫 Schema
+// 對應計畫書第 7 章：題型、太陽數、20 週學習計畫
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+// ==========================================
+// 1. Phonics 與核心單字庫 (聽、說、讀的基礎)
+// ==========================================
+
+model PhonicsCategory {
+  id          String   @id @default(uuid())
+  name        String   @unique // e.g. SHORT_VOWELS, LONG_VOWELS, SPECIAL_RULES
+  description String?
+  words       Word[]
+}
+
+model Word {
+  id             String          @id @default(uuid())
+  text           String          @unique // e.g. "station"
+  ipa            String? // 國際音標 (供比對參考)
+  phonemeMapping Json // 發音積木切片 [{ text, phoneme, isStressed }]
+  sentences      Json? // 已審核例句 [{ text, audioUrl?, imageUrl?, reviewed }]
+  imageUrl       String?
+  audioUrl       String?
+  weekNo         Int? // 隸屬的課程週次 (1-20)
+  category       PhonicsCategory @relation(fields: [categoryId], references: [id])
+  categoryId     String
+  createdAt      DateTime        @default(now())
+  updatedAt      DateTime        @updatedAt
+
+  @@index([weekNo])
+}
+
+// ==========================================
+// 2. 聽說讀寫全功能檢定題庫 (對齊官方簡章題型)
+// ==========================================
+
+enum Skill {
+  LISTENING
+  READING
+  WRITING
+  SPEAKING
+}
+
+enum Level {
+  KIDS // 小學英檢
+  BEGINNER // 全民英檢初級
+}
+
+enum QuestionType {
+  LISTENING_IMAGE // 【聽】聽音選圖
+  LISTENING_TF // 【聽】是非題 (Y/N 配圖)
+  READING_TF // 【讀】是非題 (Y/N 配圖)
+  MATCHING // 【讀】配合題
+  MULTIPLE_CHOICE // 【讀】文法與語意選擇
+  SPELLING // 【寫】拼字
+  WRITING_CLOZE // 【寫】填填看 (日記填空)
+  SHORT_ANSWER // 【寫】短句問答
+  WRITING_REORDER // 【寫】句子重組
+  SPEAKING_READ_ALOUD // 【說】朗讀
+  SPEAKING_PICTURE // 【說】看圖說故事
+}
+
+model ExamQuestion {
+  id            String         @id @default(uuid())
+  type          QuestionType
+  skill         Skill
+  level         Level          @default(KIDS)
+  weekNo        Int? // 對應 20 週課程的週次 (1-20)
+  audioUrl      String? // 聽力題音檔 (可結合 Edge TTS 預先生成)
+  questionText  String // 題目文本
+  options       Json // 選項 (字串陣列或配對結構)
+  correctAnswer String // 正確答案 (寫作/配對題以 JSON 字串表示)
+  imageUrl      String? // 選圖或看圖寫作圖片
+  explanation   String? // 答錯時的兒童友善解析
+  createdAt     DateTime       @default(now())
+  attempts      Attempt[]
+  weeklyTasks   WeeklyTaskQuestion[]
+
+  @@index([type])
+  @@index([skill])
+  @@index([weekNo])
+}
+
+// ==========================================
+// 3. 使用者、20 週學習計畫與太陽數診斷
+// ==========================================
+
+model User {
+  id          String       @id @default(uuid())
+  displayName String       @default("小學員")
+  level       Level        @default(KIDS)
+  streak      Int          @default(0) // 連續打卡天數
+  lastActive  DateTime?
+  createdAt   DateTime     @default(now())
+  studyPlans  StudyPlan[]
+  attempts    Attempt[]
+  skillScores SkillScore[]
+  achievements Achievement[]
+}
+
+model StudyPlan {
+  id        String      @id @default(uuid())
+  user      User        @relation(fields: [userId], references: [id], onDelete: Cascade)
+  userId    String
+  level     Level       @default(KIDS)
+  startedAt DateTime    @default(now())
+  weeks     StudyWeek[]
+
+  @@unique([userId, level])
+}
+
+model StudyWeek {
+  id        String       @id @default(uuid())
+  plan      StudyPlan    @relation(fields: [planId], references: [id], onDelete: Cascade)
+  planId    String
+  weekNo    Int // 1-20
+  title     String
+  theme     String? // 該週主題 (phonics 分類等)
+  unlocked  Boolean      @default(false)
+  completed Boolean      @default(false)
+  progress  Float        @default(0) // 0-1 完成度
+  tasks     WeeklyTask[]
+
+  @@unique([planId, weekNo])
+}
+
+model WeeklyTask {
+  id          String                @id @default(uuid())
+  week        StudyWeek             @relation(fields: [weekId], references: [id], onDelete: Cascade)
+  weekId      String
+  skill       Skill
+  title       String
+  targetCount Int                   @default(5) // 目標完成題數
+  doneCount   Int                   @default(0)
+  questions   WeeklyTaskQuestion[]
+}
+
+// WeeklyTask 與 ExamQuestion 多對多中介表
+model WeeklyTaskQuestion {
+  task       WeeklyTask   @relation(fields: [taskId], references: [id], onDelete: Cascade)
+  taskId     String
+  question   ExamQuestion @relation(fields: [questionId], references: [id], onDelete: Cascade)
+  questionId String
+
+  @@id([taskId, questionId])
+}
+
+model Attempt {
+  id            String        @id @default(uuid())
+  user          User          @relation(fields: [userId], references: [id], onDelete: Cascade)
+  userId        String
+  question      ExamQuestion? @relation(fields: [questionId], references: [id], onDelete: SetNull)
+  questionId    String?
+  skill         Skill
+  isCorrect     Boolean
+  score         Float         @default(0) // 0-100 (口說題存發音評測分數)
+  detail        Json? // 額外資料 (如音素分數陣列)
+  createdAt     DateTime      @default(now())
+
+  @@index([userId, skill])
+  @@index([userId, createdAt])
+}
+
+// 分項能力彙總：太陽數 (0-5) 與達成率 (對應官方診斷回饋)
+model SkillScore {
+  id           String   @id @default(uuid())
+  user         User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  userId       String
+  skill        Skill
+  suns         Int      @default(0) // 0-5
+  achievement  Float    @default(0) // 達成率 0-1
+  totalAttempts Int     @default(0)
+  correctCount Int      @default(0)
+  updatedAt    DateTime @updatedAt
+
+  @@unique([userId, skill])
+}
+
+model Achievement {
+  id       String   @id @default(uuid())
+  user     User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  userId   String
+  code     String // e.g. STREAK_7, WEEK_1_DONE, FIRST_SUN
+  title    String
+  earnedAt DateTime @default(now())
+
+  @@unique([userId, code])
+}
